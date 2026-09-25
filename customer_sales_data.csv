@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Gender,Age,City,Region,Product_Category,Product_Name,Quantity,Unit_Price,Discount,Sales,Cost,Profit,Payment_Mode
+ORD100001,01-01-2023,CUST1008,Rajesh Singh,Male,29,Kochi,South,Electronics,Smartwatch,4,3360,0.05,12768,8803.12,3964.88,UPI
+ORD100002,01-01-2023,CUST1119,Karan Pillai,Male,43,Bhubaneswar,East,Home & Kitchen,Non-stick Pan,2,860,0.2,1376,1205.43,170.57,UPI
+ORD100003,01-01-2023,CUST1052,Suresh Verma,Male,27,Kolkata,East,Clothing,Men's T-Shirt,3,527,0.05,1501.95,1096.63,405.32,UPI
+ORD100004,02-01-2023,CUST1312,Sneha Kumar,Female,44,Mumbai,West,Electronics,Laptop Stand,1,1340,0.15,1139,1020.04,118.96,Cash on Delivery
+ORD100005,03-01-2023,CUST1188,Rohit Reddy,Male,25,Chennai,South,Clothing,Formal Shirt,1,1150,0.1,1035,854.66,180.34,Debit Card
+ORD100006,03-01-2023,CUST1345,Amit Joshi,Male,37,Hyderabad,South,Office Supplies,Ballpoint Pen Set,3,154,0,462,278.94,183.06,UPI
+ORD100007,09-01-2023,CUST1316,Arjun Patel,Male,42,Pune,West,Electronics,Webcam,1,1890,0,1890,1206.27,683.73,UPI
+ORD100008,10-01-2023,CUST1141,Divya Malhotra,Female,49,Coimbatore,South,Home & Kitchen,LED Table Lamp,3,710,0.1,1917,1546.24,370.76,Net Banking
+ORD100009,11-01-2023,CUST1172,Suresh Reddy,Male,34,Coimbatore,South,Office Supplies,Ballpoint Pen Set,1,146,0.2,116.8,105.58,11.22,Debit Card
+ORD100010,11-01-2023,CUST1157,Kavita Pillai,Female,40,Chennai,South,Clothing,Denim Jeans,3,1580,0.1,4266,3004.16,1261.84,Credit Card
+ORD100011,13-01-2023,CUST1092,Shalini Iyer,Female,27,Jaipur,North,Electronics,Laptop Stand,4,1390,0,5560,3864.1,1695.9,Net Banking
+ORD100012,16-01-2023,CUST1224,Neha Malhotra,Female,29,Guwahati,East,Office Supplies,Ballpoint Pen Set,1,156,0.15,132.6,111,21.6,Credit Card
+ORD100013,16-01-2023,CUST1098,Priya Singh,Female,35,Chennai,South,Electronics,Power Bank,2,1290,0.1,2322,1579.79,742.21,Net Banking
+ORD100014,17-01-2023,CUST1022,Neha Iyer,Female,35,Lucknow,North,Home & Kitchen,Storage Containers Set,1,590,0.05,560.5,427.32,133.18,Debit Card
+ORD100015,19-01-2023,CUST1228,Rekha Chatterjee,Female,27,Kolkata,East,Clothing,Formal Shirt,2,1050,0,2100,1529.87,570.13,UPI
+ORD100016,20-01-2023,CUST1289,Amit Rao,Male,28,Kolkata,East,Office Supplies,Desk Organizer,5,740,0,3700,2360.07,1339.93,UPI
+ORD100017,20-01-2023,CUST1275,Rajesh Iyer,Male,40,Chandigarh,North,Electronics,Bluetooth Speaker,1,1960,0.1,1764,1517.1,246.9,UPI
+ORD100018,20-01-2023,CUST1240,Nisha Kumar,Female,26,Bengaluru,South,Clothing,Men's T-Shirt,4,530,0,2120,1625.59,494.41,Cash on Delivery
+ORD100019,22-01-2023,CUST1177,Anil Verma,Male,50,Pune,West,Beauty & Personal Care,Trimmer,1,1350,0.15,1147.5,1025.32,122.18,UPI
+ORD100020,27-01-2023,CUST1102,Shweta Reddy,Female,31,Chennai,South,Beauty & Personal Care,Shampoo,3,338,0,1014,638.27,375.73,Net Banking
+ORD100021,30-01-2023,CUST1174,Ashok Iyer,Male,38,Hyderabad,South,Clothing,Winter Jacket,2,3110,0.15,5287,4056.06,1230.94,UPI
+ORD100022,31-01-2023,CUST1320,Nisha Singh,Female,36,Hyderabad,South,Electronics,Power Bank,4,1240,0.05,4712,3267.76,1444.24,Cash on Delivery
+ORD100023,02-02-2023,CUST1337,Swati Kumar,Female,31,Bengaluru,South,Electronics,Smartwatch,1,3630,0,3630,2706.62,923.38,Credit Card
+ORD100024,04-02-2023,CUST1115,Sanjay Rao,Male,38,Ahmedabad,West,Electronics,Bluetooth Speaker,1,2110,0.15,1793.5,1468.44,325.06,Net Banking
+ORD100025,05-02-2023,CUST1243,Ashok Kapoor,Male,44,Lucknow,North,Clothing,Formal Shirt,3,1080,0,3240,2318.93,921.07,Cash on Delivery
+ORD100026,06-02-2023,CUST1186,Ritu Kapoor,Female,40,Patna,East,Clothing,Women's Kurti,1,930,0,930,578.32,351.68,Credit Card
+ORD100027,06-02-2023,CUST1169,Preeti Pillai,Female,26,Kochi,South,Clothing,Denim Jeans,2,1560,0.15,2652,2405.82,246.18,Debit Card
+ORD100028,07-02-2023,CUST1264,Swati Singh,Female,32,Bengaluru,South,Office Supplies,Ballpoint Pen Set,1,152,0,152,109.36,42.64,Credit Card
+ORD100029,07-02-2023,CUST1263,Nikhil Joshi,Male,23,Chennai,South,Clothing,Winter Jacket,1,2890,0.05,2745.5,1860.13,885.37,UPI
+ORD100030,07-02-2023,CUST1089,Suresh Joshi,Male,40,Patna,East,Clothing,Women's Kurti,1,870,0.1,783,599.59,183.41,Cash on Delivery
+ORD100031,07-02-2023,CUST1025,Arjun Pillai,Male,36,Guwahati,East,Electronics,Wireless Mouse,1,570,0.05,541.5,382.31,159.19,UPI
+ORD100032,08-02-2023,CUST1333,Gaurav Kapoor,Male,27,Kolkata,East,Home & Kitchen,Cushion Cover Set,2,405,0,810,598.4,211.6,UPI
+ORD100033,08-02-2023,CUST1256,Vijay Das,Male,48,Coimbatore,South,Electronics,Earbuds,1,2500,0,2500,1568.15,931.85,Credit Card
+ORD100034,08-02-2023,CUST1284,Karan Iyer,Male,58,Pune,West,Home & Kitchen,Cushion Cover Set,3,379,0.1,1023.3,810.59,212.71,Credit Card
+ORD100035,09-02-2023,CUST1073,Sandeep Reddy,Male,52,Chennai,South,Home & Kitchen,Water Bottle,2,296,0,592,387.16,204.84,UPI
+ORD100036,10-02-2023,CUST1198,Meena Pillai,Female,35,Guwahati,East,Clothing,Formal Shirt,2,1180,0.1,2124,1782.05,341.95,Cash on Delivery
+ORD100037,10-02-2023,CUST1193,Sneha Nair,Female,21,Chennai,South,Clothing,Women's Kurti,3,880,0,2640,1965.41,674.59,Debit Card
+ORD100038,10-02-2023,CUST1008,Rajesh Singh,Male,29,Kochi,South,Home & Kitchen,Non-stick Pan,1,860,0.1,774,537.22,236.78,Debit Card
+ORD100039,12-02-2023,CUST1293,Bhavna Pillai,Female,44,Hyderabad,South,Electronics,Earbuds,1,2440,0,2440,1745.95,694.05,UPI
+ORD100040,12-02-2023,CUST1195,Anil Kumar,Male,39,Ahmedabad,West,Office Supplies,Whiteboard,2,1330,0.15,2261,1863.11,397.89,UPI
+ORD100041,12-02-2023,CUST1166,Rekha Malhotra,Female,44,Mumbai,West,Beauty & Personal Care,Shampoo,3,350,0.15,892.5,745.64,146.86,UPI
+ORD100042,13-02-2023,CUST1159,Shalini Gupta,Female,42,Chennai,South,Sports & Fitness,Dumbbell Set,1,1930,0.05,1833.5,1398.01,435.49,UPI
+ORD100043,14-02-2023,CUST1332,Sneha Agarwal,Female,35,Delhi,North,Clothing,Formal Shirt,2,1070,0,2140,1394.73,745.27,Debit Card
+ORD100044,14-02-2023,CUST1319,Divya Pillai,Female,33,Delhi,North,Beauty & Personal Care,Shampoo,1,334,0.05,317.3,249.13,68.17,UPI
+ORD100045,15-02-2023,CUST1336,Ravi Pillai,Male,25,Chandigarh,North,Office Supplies,Ballpoint Pen Set,3,155,0.2,372,336.19,35.81,UPI
+ORD100046,16-02-2023,CUST1130,Preeti Malhotra,Female,18,Patna,East,Beauty & Personal Care,Shampoo,4,341,0.1,1227.6,840.35,387.25,UPI
+ORD100047,16-02-2023,CUST1346,Vijay Shah,Male,19,Kolkata,East,Clothing,Sports Shoes,1,2330,0.15,1980.5,1772.56,207.94,Credit Card
+ORD100048,16-02-2023,CUST1073,Sandeep Reddy,Male,52,Chennai,South,Electronics,Power Bank,1,1230,0.1,1107,838.36,268.64,UPI
+ORD100049,18-02-2023,CUST1331,Deepak Patel,Male,25,Bhubaneswar,East,Electronics,Earbuds,1,2460,0,2460,1618.62,841.38,Net Banking
+ORD100050,19-02-2023,CUST1327,Sneha Chatterjee,Female,43,Pune,West,Electronics,Wireless Mouse,5,590,0.05,2802.5,1954.4,848.1,UPI
+ORD100051,20-02-2023,CUST1202,Shweta Verma,Female,46,Jaipur,North,Beauty & Personal Care,Perfume,1,1670,0.15,1419.5,1258.19,161.31,UPI
+ORD100052,20-02-2023,CUST1135,Shalini Iyer,Female,52,Patna,East,Office Supplies,Desk Organizer,1,720,0.15,612,487.4,124.6,Debit Card
+ORD100053,20-02-2023,CUST1318,Bhavna Malhotra,Female,38,Patna,East,Home & Kitchen,Storage Containers Set,2,630,0,1260,904.4,355.6,Credit Card
+ORD100054,20-02-2023,CUST1075,Ritu Patel,Female,44,Bhubaneswar,East,Electronics,Bluetooth Speaker,1,2110,0.1,1899,1313.66,585.34,UPI
+ORD100055,21-02-2023,CUST1118,Rahul Singh,Male,47,Patna,East,Clothing,Denim Jeans,1,1620,0.15,1377,1194.94,182.06,Debit Card
+ORD100056,23-02-2023,CUST1144,Manoj Nair,Male,37,Ahmedabad,West,Clothing,Denim Jeans,2,1570,0.2,2512,2095.88,416.12,UPI
+ORD100057,23-02-2023,CUST1292,Arjun Iyer,Male,28,Coimbatore,South,Clothing,Winter Jacket,2,3230,0.05,6137,4745.86,1391.14,UPI
+ORD100058,23-02-2023,CUST1102,Shweta Reddy,Female,31,Chennai,South,Beauty & Personal Care,Shampoo,1,352,0.2,281.6,249.61,31.99,Cash on Delivery
+ORD100059,24-02-2023,CUST1006,Gaurav Mehta,Male,52,Chennai,South,Home & Kitchen,Non-stick Pan,1,870,0.05,826.5,585.31,241.19,Debit Card
+ORD100060,25-02-2023,CUST1213,Rohit Iyer,Male,42,Lucknow,North,Sports & Fitness,Resistance Bands,1,474,0.1,426.6,367.52,59.08,Cash on Delivery
+ORD100061,25-02-2023,CUST1260,Pooja Malhotra,Female,24,Ahmedabad,West,Electronics,Power Bank,5,1220,0.15,5185,4335.51,849.49,Debit Card
+ORD100062,27-02-2023,CUST1277,Amit Mehta,Male,28,Bengaluru,South,Clothing,Formal Shirt,1,1120,0,1120,853.41,266.59,Credit Card
+ORD100063,28-02-2023,CUST1314,Kiran Mehta,Female,49,Jaipur,North,Sports & Fitness,Resistance Bands,4,485,0,1940,1347.16,592.84,UPI
+ORD100064,28-02-2023,CUST1128,Sanjay Chatterjee,Male,36,Lucknow,North,Electronics,Wireless Mouse,2,600,0.05,1140,725.19,414.81,UPI
+ORD100065,01-03-2023,CUST1249,Sanjay Chatterjee,Male,39,Kochi,South,Clothing,Women's Kurti,1,960,0,960,580.4,379.6,Debit Card
+ORD100066,03-03-2023,CUST1216,Preeti Sharma,Female,26,Patna,East,Clothing,Men's T-Shirt,3,501,0.2,1202.4,1028.25,174.15,UPI
+ORD100067,03-03-2023,CUST1053,Pooja Nair,Female,41,Chandigarh,North,Electronics,USB-C Charger,1,760,0,760,555.31,204.69,UPI
+ORD100068,03-03-2023,CUST1141,Divya Malhotra,Female,49,Coimbatore,South,Beauty & Personal Care,Trimmer,1,1270,0.05,1206.5,985.62,220.88,Debit Card
+ORD100069,04-03-2023,CUST1338,Arjun Iyer,Male,39,Chandigarh,North,Home & Kitchen,LED Table Lamp,2,780,0,1560,1182.72,377.28,Debit Card
+ORD100070,05-03-2023,CUST1120,Sandeep Nair,Male,43,Delhi,North,Sports & Fitness,Football,4,720,0.15,2448,2021.73,426.27,Debit Card
+ORD100071,07-03-2023,CUST1015,Manoj Joshi,Male,28,Chandigarh,North,Clothing,Formal Shirt,1,1050,0.1,945,643.62,301.38,Debit Card
+ORD100072,07-03-2023,CUST1040,Aarti Shah,Female,43,Patna,East,Electronics,Power Bank,3,1280,0.15,3264,2828.42,435.58,Credit Card
+ORD100073,09-03-2023,CUST1191,Bhavna Rao,Female,44,Hyderabad,South,Beauty & Personal Care,Skincare Kit,2,2020,0.05,3838,2737.01,1100.99,Net Banking
+ORD100074,10-03-2023,CUST1236,Vikram Nair,Male,18,Ahmedabad,West,Office Supplies,Notebook Pack,4,212,0.15,720.8,572.82,147.98,Debit Card
+ORD100075,10-03-2023,CUST1214,Kiran Rao,Female,31,Delhi,North,Home & Kitchen,Non-stick Pan,1,890,0.15,756.5,687.1,69.4,Debit Card
+ORD100076,10-03-2023,CUST1132,Ajay Chatterjee,Male,23,Guwahati,East,Clothing,Sports Shoes,1,2120,0.05,2014,1601.92,412.08,Cash on Delivery
+ORD100077,12-03-2023,CUST1091,Priya Patel,Female,45,Coimbatore,South,Electronics,Wireless Mouse,2,630,0,1260,832.72,427.28,Cash on Delivery
+ORD100078,13-03-2023,CUST1132,Ajay Chatterjee,Male,23,Guwahati,East,Sports & Fitness,Resistance Bands,3,486,0,1458,1066.61,391.39,Credit Card
+ORD100079,14-03-2023,CUST1302,Ajay Bose,Male,43,Coimbatore,South,Electronics,Earbuds,1,2640,0.05,2508,1824.22,683.78,Debit Card
+ORD100080,15-03-2023,CUST1213,Rohit Iyer,Male,42,Lucknow,North,Electronics,Smartwatch,4,3620,0,14480,9932.34,4547.66,Credit Card
+ORD100081,15-03-2023,CUST1275,Rajesh Iyer,Male,40,Chandigarh,North,Beauty & Personal Care,Trimmer,5,1390,0.05,6602.5,5392.61,1209.89,UPI
+ORD100082,16-03-2023,CUST1349,Aarti Kumar,Female,32,Pune,West,Electronics,Webcam,1,1890,0.05,1795.5,1297.75,497.75,Cash on Delivery
+ORD100083,17-03-2023,CUST1150,Vikram Kapoor,Male,37,Kolkata,East,Electronics,Laptop Stand,2,1260,0.1,2268,1655.68,612.32,Cash on Delivery
+ORD100084,17-03-2023,CUST1078,Suresh Bose,Male,36,Lucknow,North,Electronics,Earbuds,1,2620,0.05,2489,1910.76,578.24,Credit Card
+ORD100085,17-03-2023,CUST1337,Swati Kumar,Female,31,Bengaluru,South,Electronics,Power Bank,2,1210,0.05,2299,1742.49,556.51,Net Banking
+ORD100086,17-03-2023,CUST1341,Anjali Kumar,Female,37,Bhubaneswar,East,Beauty & Personal Care,Perfume,1,1730,0.15,1470.5,1296.66,173.84,Debit Card
+ORD100087,17-03-2023,CUST1245,Priya Malhotra,Female,31,Hyderabad,South,Home & Kitchen,LED Table Lamp,1,750,0.05,712.5,490.69,221.81,Net Banking
+ORD100088,18-03-2023,CUST1175,Rohit Das,Male,44,Bengaluru,South,Electronics,Power Bank,4,1270,0,5080,3947.33,1132.67,Credit Card
+ORD100089,18-03-2023,CUST1328,Priya Malhotra,Female,41,Ahmedabad,West,Sports & Fitness,Football,1,750,0.15,637.5,554.84,82.66,Credit Card
+ORD100090,19-03-2023,CUST1323,Rohit Das,Male,58,Chandigarh,North,Electronics,Power Bank,4,1230,0,4920,3563.07,1356.93,Debit Card
+ORD100091,20-03-2023,CUST1347,Shweta Bose,Female,19,Pune,West,Clothing,Denim Jeans,1,1490,0.05,1415.5,959.01,456.49,Debit Card
+ORD100092,21-03-2023,CUST1213,Rohit Iyer,Male,42,Lucknow,North,Sports & Fitness,Resistance Bands,5,477,0.1,2146.5,1556.71,589.79,Debit Card
+ORD100093,21-03-2023,CUST1270,Kiran Joshi,Female,50,Patna,East,Electronics,Bluetooth Speaker,2,2050,0.1,3690,3096.31,593.69,Net Banking
+ORD100094,22-03-2023,CUST1281,Neha Kumar,Female,42,Chennai,South,Office Supplies,Office Chair,2,4980,0,9960,7569.19,2390.81,Net Banking
+ORD100095,22-03-2023,CUST1040,Aarti Shah,Female,43,Patna,East,Electronics,Laptop Stand,2,1360,0.15,2312,1671.26,640.74,UPI
+ORD100096,22-03-2023,CUST1108,Kunal Kapoor,Male,37,Hyderabad,South,Beauty & Personal Care,Shampoo,3,371,0.1,1001.7,801.02,200.68,Credit Card
+ORD100097,22-03-2023,CUST1115,Sanjay Rao,Male,38,Ahmedabad,West,Clothing,Winter Jacket,3,3200,0,9600,6298.66,3301.34,Cash on Delivery
+ORD100098,23-03-2023,CUST1222,Anil Agarwal,Male,42,Coimbatore,South,Electronics,Laptop Stand,3,1270,0.1,3429,2295.43,1133.57,Debit Card
+ORD100099,23-03-2023,CUST1006,Gaurav Mehta,Male,52,Chennai,South,Sports & Fitness,Dumbbell Set,2,1740,0,3480,2393.58,1086.42,UPI
+ORD100100,24-03-2023,CUST1073,Sandeep Reddy,Male,52,Chennai,South,Clothing,Sports Shoes,1,2200,0.05,2090,1376.47,713.53,Credit Card
+ORD100101,26-03-2023,CUST1256,Vijay Das,Male,48,Coimbatore,South,Beauty & Personal Care,Trimmer,3,1400,0.2,3360,2888.82,471.18,UPI
+ORD100102,27-03-2023,CUST1327,Sneha Chatterjee,Female,43,Pune,West,Home & Kitchen,Cushion Cover Set,2,385,0.05,731.5,579.03,152.47,Credit Card
+ORD100103,28-03-2023,CUST1197,Pooja Malhotra,Female,36,Hyderabad,South,Electronics,Power Bank,4,1250,0,5000,3213.79,1786.21,Debit Card
+ORD100104,28-03-2023,CUST1266,Vijay Malhotra,Male,52,Hyderabad,South,Clothing,Denim Jeans,2,1570,0.05,2983,2171.33,811.67,UPI
+ORD100105,28-03-2023,CUST1230,Pooja Malhotra,Female,26,Delhi,North,Electronics,Earbuds,2,2630,0.05,4997,4014.14,982.86,Cash on Delivery
+ORD100106,28-03-2023,CUST1339,Kunal Kumar,Male,28,Ahmedabad,West,Clothing,Winter Jacket,2,3030,0.05,5757,4618.98,1138.02,UPI
+ORD100107,29-03-2023,CUST1102,Shweta Reddy,Female,31,Chennai,South,Office Supplies,Ballpoint Pen Set,1,161,0,161,98.89,62.11,Net Banking
+ORD100108,29-03-2023,CUST1046,Vijay Verma,Male,29,Coimbatore,South,Electronics,Webcam,1,1930,0.1,1737,1278.13,458.87,UPI
+ORD100109,30-03-2023,CUST1054,Sandeep Malhotra,Male,46,Lucknow,North,Clothing,Sports Shoes,2,2230,0,4460,2907.92,1552.08,Debit Card
+ORD100110,01-04-2023,CUST1295,Suresh Bose,Male,27,Chandigarh,North,Beauty & Personal Care,Trimmer,1,1300,0.1,1170,921.75,248.25,Net Banking
+ORD100111,02-04-2023,CUST1246,Vijay Malhotra,Male,29,Kochi,South,Clothing,Men's T-Shirt,3,505,0.05,1439.25,1011.35,427.9,Credit Card
+ORD100112,02-04-2023,CUST1164,Ravi Reddy,Male,45,Ahmedabad,West,Electronics,Power Bank,3,1150,0.05,3277.5,2141.37,1136.13,UPI
+ORD100113,02-04-2023,CUST1147,Ashok Singh,Male,20,Chandigarh,North,Clothing,Sports Shoes,1,2100,0.05,1995,1279.44,715.56,Credit Card
+ORD100114,03-04-2023,CUST1056,Vijay Malhotra,Male,25,Delhi,North,Beauty & Personal Care,Trimmer,1,1280,0.1,1152,857.06,294.94,Credit Card
+ORD100115,03-04-2023,CUST1239,Anita Das,Female,44,Kochi,South,Home & Kitchen,Storage Containers Set,1,600,0.05,570,459.34,110.66,UPI
+ORD100116,04-04-2023,CUST1156,Swati Malhotra,Female,55,Lucknow,North,Office Supplies,Ballpoint Pen Set,3,149,0.15,379.95,333.04,46.91,UPI
+ORD100117,05-04-2023,CUST1089,Suresh Joshi,Male,40,Patna,East,Electronics,Wireless Mouse,2,580,0.15,986,705.4,280.6,Net Banking
+ORD100118,05-04-2023,CUST1169,Preeti Pillai,Female,26,Kochi,South,Office Supplies,Office Chair,2,5160,0.1,9288,6390.73,2897.27,Net Banking
+ORD100119,07-04-2023,CUST1126,Shalini Iyer,Female,24,Coimbatore,South,Office Supplies,Notebook Pack,2,210,0.05,399,256.03,142.97,Credit Card
+ORD100120,08-04-2023,CUST1222,Anil Agarwal,Male,42,Coimbatore,South,Office Supplies,Desk Organizer,1,700,0.05,665,506.87,158.13,UPI
+ORD100121,08-04-2023,CUST1173,Sandeep Patel,Male,38,Chandigarh,North,Home & Kitchen,Water Bottle,4,287,0.05,1090.6,750.7,339.9,UPI
+ORD100122,08-04-2023,CUST1088,Anita Joshi,Female,29,Chandigarh,North,Home & Kitchen,Water Bottle,2,302,0.1,543.6,379.2,164.4,UPI
+ORD100123,10-04-2023,CUST1281,Neha Kumar,Female,42,Chennai,South,Electronics,Bluetooth Speaker,3,1920,0,5760,4387.1,1372.9,Credit Card
+ORD100124,11-04-2023,CUST1158,Kiran Agarwal,Female,21,Chennai,South,Beauty & Personal Care,Shampoo,1,343,0.1,308.7,232.13,76.57,Net Banking
+ORD100125,11-04-2023,CUST1344,Vikram Malhotra,Male,29,Bhubaneswar,East,Electronics,Bluetooth Speaker,1,2150,0.05,2042.5,1504.68,537.82,Credit Card
+ORD100126,13-04-2023,CUST1075,Ritu Patel,Female,44,Bhubaneswar,East,Home & Kitchen,Cushion Cover Set,3,418,0,1254,969.73,284.27,Net Banking
+ORD100127,15-04-2023,CUST1036,Ritu Nair,Female,37,Pune,West,Electronics,Bluetooth Speaker,2,2140,0.1,3852,3157.21,694.79,UPI
+ORD100128,16-04-2023,CUST1220,Nikhil Bose,Male,60,Lucknow,North,Clothing,Winter Jacket,2,2960,0.15,5032,3776.48,1255.52,UPI
+ORD100129,16-04-2023,CUST1328,Priya Malhotra,Female,41,Ahmedabad,West,Home & Kitchen,Storage Containers Set,2,590,0.1,1062,784.07,277.93,UPI
+ORD100130,19-04-2023,CUST1069,Meena Reddy,Female,27,Coimbatore,South,Beauty & Personal Care,Skincare Kit,3,1940,0.1,5238,3688.97,1549.03,Credit Card
+ORD100131,19-04-2023,CUST1204,Ajay Agarwal,Male,19,Guwahati,East,Electronics,Earbuds,2,2560,0.05,4864,3750.71,1113.29,UPI
+ORD100132,20-04-2023,CUST1127,Preeti Gupta,Female,28,Lucknow,North,Beauty & Personal Care,Perfume,2,1550,0,3100,2247.22,852.78,Credit Card
+ORD100133,20-04-2023,CUST1309,Kunal Iyer,Male,32,Mumbai,West,Home & Kitchen,Cushion Cover Set,2,386,0.1,694.8,560.56,134.24,Credit Card
+ORD100134,20-04-2023,CUST1030,Anjali Singh,Female,28,Hyderabad,South,Electronics,Smartwatch,1,3490,0,3490,2359.94,1130.06,UPI
+ORD100135,20-04-2023,CUST1320,Nisha Singh,Female,36,Hyderabad,South,Home & Kitchen,Cushion Cover Set,1,419,0.2,335.2,285.62,49.58,Credit Card
+ORD100136,21-04-2023,CUST1107,Rohit Agarwal,Male,36,Kolkata,East,Electronics,Bluetooth Speaker,4,2020,0.05,7676,5572.02,2103.98,Debit Card
+ORD100137,21-04-2023,CUST1344,Vikram Malhotra,Male,29,Bhubaneswar,East,Clothing,Winter Jacket,1,3040,0.15,2584,2022.3,561.7,Credit Card
+ORD100138,21-04-2023,CUST1110,Divya Agarwal,Female,18,Coimbatore,South,Clothing,Women's Kurti,2,860,0.05,1634,1152.02,481.98,UPI
+ORD100139,22-04-2023,CUST1228,Rekha Chatterjee,Female,27,Kolkata,East,Clothing,Denim Jeans,1,1420,0.05,1349,865.96,483.04,UPI
+ORD100140,22-04-2023,CUST1090,Sanjay Patel,Male,36,Jaipur,North,Clothing,Formal Shirt,1,1140,0,1140,809.92,330.08,Credit Card
+ORD100141,25-04-2023,CUST1143,Sneha Rao,Female,37,Mumbai,West,Electronics,Laptop Stand,3,1370,0.05,3904.5,2727.23,1177.27,Credit Card
+ORD100142,26-04-2023,CUST1068,Kunal Gupta,Male,38,Patna,East,Beauty & Personal Care,Trimmer,1,1390,0,1390,969.58,420.42,Debit Card
+ORD100143,26-04-2023,CUST1234,Preeti Chatterjee,Female,58,Coimbatore,South,Home & Kitchen,LED Table Lamp,1,770,0.1,693,581.58,111.42,UPI
+ORD100144,28-04-2023,CUST1339,Kunal Kumar,Male,28,Ahmedabad,West,Office Supplies,Whiteboard,2,1250,0.05,2375,1605.18,769.82,Net Banking
+ORD100145,29-04-2023,CUST1326,Arjun Chatterjee,Male,47,Bengaluru,South,Clothing,Men's T-Shirt,1,520,0.05,494,388.91,105.09,UPI
+ORD100146,29-04-2023,CUST1338,Arjun Iyer,Male,39,Chandigarh,North,Electronics,Wireless Mouse,1,610,0.05,579.5,434.76,144.74,Credit Card
+ORD100147,29-04-2023,CUST1176,Kavita Das,Female,35,Mumbai,West,Electronics,Laptop Stand,1,1250,0,1250,791.5,458.5,Net Banking
+ORD100148,01-05-2023,CUST1064,Anita Verma,Female,43,Guwahati,East,Office Supplies,Desk Organizer,3,680,0.05,1938,1473.78,464.22,UPI
+ORD100149,01-05-2023,CUST1002,Anita Sharma,Female,42,Ahmedabad,West,Office Supplies,Notebook Pack,2,207,0,414,268.6,145.4,UPI
+ORD100150,02-05-2023,CUST1207,Nisha Rao,Female,40,Hyderabad,South,Clothing,Men's T-Shirt,1,475,0.2,380,304.55,75.45,Debit Card
+ORD100151,03-05-2023,CUST1349,Aarti Kumar,Female,32,Pune,West,Electronics,Smartwatch,2,3660,0,7320,5653.98,1666.02,UPI
+ORD100152,04-05-2023,CUST1178,Neha Rao,Female,32,Delhi,North,Beauty & Personal Care,Trimmer,1,1240,0,1240,857.96,382.04,UPI
+ORD100153,04-05-2023,CUST1201,Vijay Nair,Male,41,Mumbai,West,Beauty & Personal Care,Shampoo,1,349,0,349,269.7,79.3,UPI
+ORD100154,05-05-2023,CUST1326,Arjun Chatterjee,Male,47,Bengaluru,South,Electronics,Earbuds,3,2400,0.05,6840,5411.01,1428.99,UPI
+ORD100155,05-05-2023,CUST1270,Kiran Joshi,Female,50,Patna,East,Clothing,Denim Jeans,1,1520,0.1,1368,977.7,390.3,Debit Card
+ORD100156,07-05-2023,CUST1332,Sneha Agarwal,Female,35,Delhi,North,Sports & Fitness,Dumbbell Set,1,1720,0,1720,1334.9,385.1,UPI
+ORD100157,07-05-2023,CUST1111,Kiran Malhotra,Female,34,Chandigarh,North,Electronics,Bluetooth Speaker,1,2070,0.1,1863,1484.26,378.74,Credit Card
+ORD100158,09-05-2023,CUST1273,Nikhil Malhotra,Male,35,Bengaluru,South,Electronics,Bluetooth Speaker,1,1960,0.1,1764,1396.06,367.94,Debit Card
+ORD100159,10-05-2023,CUST1158,Kiran Agarwal,Female,21,Chennai,South,Electronics,Laptop Stand,1,1280,0,1280,823.64,456.36,UPI
+ORD100160,11-05-2023,CUST1158,Kiran Agarwal,Female,21,Chennai,South,Home & Kitchen,Water Bottle,1,286,0.2,228.8,217.43,11.37,Net Banking
+ORD100161,14-05-2023,CUST1257,Kavita Reddy,Female,27,Lucknow,North,Office Supplies,Notebook Pack,1,192,0.1,172.8,139.55,33.25,UPI
+ORD100162,14-05-2023,CUST1193,Sneha Nair,Female,21,Chennai,South,Electronics,Laptop Stand,3,1390,0.2,3336,2910.69,425.31,UPI
+ORD100163,14-05-2023,CUST1038,Sneha Bose,Female,20,Lucknow,North,Home & Kitchen,Non-stick Pan,3,930,0,2790,1905.79,884.21,UPI
+ORD100164,15-05-2023,CUST1228,Rekha Chatterjee,Female,27,Kolkata,East,Clothing,Women's Kurti,2,890,0.05,1691,1119.34,571.66,Credit Card
+ORD100165,17-05-2023,CUST1151,Divya Gupta,Female,38,Bengaluru,South,Clothing,Women's Kurti,1,860,0.05,817,638.4,178.6,Credit Card
+ORD100166,17-05-2023,CUST1052,Suresh Verma,Male,27,Kolkata,East,Clothing,Denim Jeans,2,1460,0.05,2774,1828.93,945.07,Credit Card
+ORD100167,18-05-2023,CUST1242,Vijay Shah,Male,40,Kolkata,East,Beauty & Personal Care,Shampoo,1,343,0.1,308.7,238.87,69.83,UPI
+ORD100168,18-05-2023,CUST1013,Sneha Nair,Female,18,Delhi,North,Clothing,Sports Shoes,1,2220,0.2,1776,1379.41,396.59,Net Banking
+ORD100169,19-05-2023,CUST1237,Pooja Singh,Female,37,Bhubaneswar,East,Sports & Fitness,Cricket Bat,2,1500,0.1,2700,1999.21,700.79,UPI
+ORD100170,20-05-2023,CUST1202,Shweta Verma,Female,46,Jaipur,North,Home & Kitchen,Storage Containers Set,1,590,0.15,501.5,413.6,87.9,Debit Card
+ORD100171,20-05-2023,CUST1331,Deepak Patel,Male,25,Bhubaneswar,East,Electronics,Webcam,2,1850,0.05,3515,2445.16,1069.84,UPI
+ORD100172,21-05-2023,CUST1050,Suresh Singh,Male,38,Patna,East,Beauty & Personal Care,Perfume,1,1600,0.15,1360,1060.3,299.7,Net Banking
+ORD100173,21-05-2023,CUST1109,Preeti Sharma,Female,34,Hyderabad,South,Clothing,Formal Shirt,5,1180,0.1,5310,4109.33,1200.67,Credit Card
+ORD100174,23-05-2023,CUST1019,Sanjay Verma,Male,19,Coimbatore,South,Clothing,Formal Shirt,3,1120,0.05,3192,2392.24,799.76,UPI
+ORD100175,24-05-2023,CUST1089,Suresh Joshi,Male,40,Patna,East,Office Supplies,Notebook Pack,1,214,0,214,140.11,73.89,Net Banking
+ORD100176,24-05-2023,CUST1127,Preeti Gupta,Female,28,Lucknow,North,Electronics,Bluetooth Speaker,2,2050,0.1,3690,2507.86,1182.14,Net Banking
+ORD100177,25-05-2023,CUST1113,Sneha Nair,Female,62,Hyderabad,South,Home & Kitchen,Non-stick Pan,1,880,0,880,580.31,299.69,Cash on Delivery
+ORD100178,26-05-2023,CUST1212,Bhavna Rao,Female,45,Bhubaneswar,East,Sports & Fitness,Yoga Mat,3,610,0.15,1555.5,1231.12,324.38,Credit Card
+ORD100179,26-05-2023,CUST1108,Kunal Kapoor,Male,37,Hyderabad,South,Clothing,Sports Shoes,1,2100,0.15,1785,1366.78,418.22,Net Banking
+ORD100180,26-05-2023,CUST1150,Vikram Kapoor,Male,37,Kolkata,East,Home & Kitchen,Non-stick Pan,2,940,0.1,1692,1272.99,419.01,UPI
+ORD100181,27-05-2023,CUST1344,Vikram Malhotra,Male,29,Bhubaneswar,East,Beauty & Personal Care,Shampoo,2,353,0.15,600.1,467.8,132.3,Debit Card
+ORD100182,28-05-2023,CUST1123,Kavita Rao,Female,19,Bhubaneswar,East,Beauty & Personal Care,Perfume,3,1590,0,4770,3564.31,1205.69,Net Banking
+ORD100183,29-05-2023,CUST1040,Aarti Shah,Female,43,Patna,East,Clothing,Denim Jeans,1,1500,0.05,1425,1025.34,399.66,UPI
+ORD100184,29-05-2023,CUST1268,Vikram Rao,Male,30,Delhi,North,Sports & Fitness,Cricket Bat,1,1510,0,1510,920.34,589.66,Cash on Delivery
+ORD100185,29-05-2023,CUST1272,Meena Verma,Female,47,Kochi,South,Electronics,Power Bank,2,1220,0.05,2318,1832.55,485.45,UPI
+ORD100186,29-05-2023,CUST1289,Amit Rao,Male,28,Kolkata,East,Beauty & Personal Care,Shampoo,2,359,0.1,646.2,446.36,199.84,Credit Card
+ORD100187,30-05-2023,CUST1190,Karan Sharma,Male,30,Patna,East,Clothing,Men's T-Shirt,5,512,0.1,2304,1739.81,564.19,Debit Card
+ORD100188,30-05-2023,CUST1272,Meena Verma,Female,47,Kochi,South,Sports & Fitness,Yoga Mat,2,590,0.05,1121,882.92,238.08,Credit Card
+ORD100189,30-05-2023,CUST1346,Vijay Shah,Male,19,Kolkata,East,Home & Kitchen,LED Table Lamp,3,770,0,2310,1390.57,919.43,Net Banking
+ORD100190,31-05-2023,CUST1082,Anita Sharma,Female,51,Coimbatore,South,Electronics,Wireless Mouse,2,590,0.05,1121,884.89,236.11,Cash on Delivery
+ORD100191,01-06-2023,CUST1090,Sanjay Patel,Male,36,Jaipur,North,Sports & Fitness,Resistance Bands,5,521,0,2605,1869.74,735.26,Credit Card
+ORD100192,01-06-2023,CUST1057,Sandeep Sharma,Male,31,Ahmedabad,West,Office Supplies,Ballpoint Pen Set,1,150,0,150,112.53,37.47,Cash on Delivery
+ORD100193,03-06-2023,CUST1300,Vijay Gupta,Male,25,Ahmedabad,West,Home & Kitchen,LED Table Lamp,3,740,0,2220,1695.94,524.06,Credit Card
+ORD100194,03-06-2023,CUST1221,Divya Shah,Female,18,Lucknow,North,Beauty & Personal Care,Shampoo,2,353,0.1,635.4,511.11,124.29,Credit Card
+ORD100195,04-06-2023,CUST1134,Preeti Bose,Female,24,Bengaluru,South,Electronics,Laptop Stand,3,1310,0.1,3537,2797.24,739.76,UPI
+ORD100196,05-06-2023,CUST1056,Vijay Malhotra,Male,25,Delhi,North,Electronics,Webcam,2,1750,0.05,3325,2662.38,662.62,Debit Card
+ORD100197,07-06-2023,CUST1227,Shalini Agarwal,Female,23,Pune,West,Home & Kitchen,LED Table Lamp,1,780,0.05,741,598.41,142.59,Cash on Delivery
+ORD100198,07-06-2023,CUST1151,Divya Gupta,Female,38,Bengaluru,South,Beauty & Personal Care,Face Wash,2,265,0.1,477,358.59,118.41,Credit Card
+ORD100199,07-06-2023,CUST1187,Shweta Shah,Female,34,Pune,West,Clothing,Winter Jacket,1,3070,0.1,2763,1945.36,817.64,Credit Card
+ORD100200,08-06-2023,CUST1239,Anita Das,Female,44,Kochi,South,Electronics,Smartwatch,1,3480,0.2,2784,2599.75,184.25,Credit Card
+ORD100201,09-06-2023,CUST1158,Kiran Agarwal,Female,21,Chennai,South,Electronics,USB-C Charger,2,770,0,1540,1014,526,Cash on Delivery
+ORD100202,11-06-2023,CUST1033,Aarti Shah,Female,23,Chandigarh,North,Home & Kitchen,Storage Containers Set,3,580,0.2,1392,1100.76,291.24,Cash on Delivery
+ORD100203,11-06-2023,CUST1207,Nisha Rao,Female,40,Hyderabad,South,Clothing,Men's T-Shirt,2,484,0.05,919.6,687.34,232.26,UPI
+ORD100204,11-06-2023,CUST1018,Preeti Nair,Female,25,Coimbatore,South,Clothing,Sports Shoes,1,2240,0.05,2128,1715.25,412.75,Credit Card
+ORD100205,13-06-2023,CUST1268,Vikram Rao,Male,30,Delhi,North,Office Supplies,Whiteboard,3,1350,0.2,3240,2721.75,518.25,UPI
+ORD100206,13-06-2023,CUST1085,Arjun Bose,Male,29,Pune,West,Electronics,Wireless Mouse,4,590,0,2360,1839.87,520.13,Cash on Delivery
+ORD100207,13-06-2023,CUST1120,Sandeep Nair,Male,43,Delhi,North,Electronics,Bluetooth Speaker,2,1910,0,3820,2374.9,1445.1,UPI
+ORD100208,14-06-2023,CUST1343,Shweta Verma,Female,29,Kochi,South,Electronics,Laptop Stand,2,1320,0,2640,1804.54,835.46,Net Banking
+ORD100209,14-06-2023,CUST1264,Swati Singh,Female,32,Bengaluru,South,Beauty & Personal Care,Perfume,2,1540,0.05,2926,2276.17,649.83,Credit Card
+ORD100210,15-06-2023,CUST1144,Manoj Nair,Male,37,Ahmedabad,West,Beauty & Personal Care,Skincare Kit,4,1990,0.15,6766,5130.4,1635.6,UPI
+ORD100211,17-06-2023,CUST1094,Rohit Malhotra,Male,30,Kochi,South,Beauty & Personal Care,Trimmer,1,1310,0,1310,940.78,369.22,UPI
+ORD100212,18-06-2023,CUST1247,Nisha Iyer,Female,27,Bhubaneswar,East,Office Supplies,Office Chair,1,5170,0.05,4911.5,3674.6,1236.9,Cash on Delivery
+ORD100213,20-06-2023,CUST1000,Rahul Iyer,Male,40,Bengaluru,South,Electronics,Webcam,2,1730,0.15,2941,2312.93,628.07,UPI
+ORD100214,21-06-2023,CUST1057,Sandeep Sharma,Male,31,Ahmedabad,West,Electronics,Power Bank,2,1210,0.15,2057,1525.93,531.07,Debit Card
+ORD100215,21-06-2023,CUST1317,Anil Malhotra,Male,31,Patna,East,Electronics,Webcam,1,1720,0.1,1548,1322.5,225.5,Credit Card
+ORD100216,22-06-2023,CUST1002,Anita Sharma,Female,42,Ahmedabad,West,Clothing,Women's Kurti,2,930,0,1860,1140.01,719.99,Net Banking
+ORD100217,22-06-2023,CUST1149,Karan Das,Male,38,Delhi,North,Electronics,USB-C Charger,1,830,0.1,747,565.49,181.51,UPI
+ORD100218,23-06-2023,CUST1251,Priya Kapoor,Female,45,Pune,West,Clothing,Sports Shoes,1,2340,0,2340,1417.11,922.89,Net Banking
+ORD100219,23-06-2023,CUST1067,Rajesh Singh,Male,46,Bengaluru,South,Electronics,Wireless Mouse,3,630,0.05,1795.5,1236.85,558.65,UPI
+ORD100220,23-06-2023,CUST1286,Ashok Malhotra,Male,33,Kochi,South,Sports & Fitness,Dumbbell Set,1,1940,0.15,1649,1335.9,313.1,UPI
+ORD100221,24-06-2023,CUST1326,Arjun Chatterjee,Male,47,Bengaluru,South,Beauty & Personal Care,Perfume,4,1650,0.1,5940,4997.95,942.05,UPI
+ORD100222,24-06-2023,CUST1307,Preeti Joshi,Female,28,Delhi,North,Home & Kitchen,Non-stick Pan,3,880,0.15,2244,1840.99,403.01,Credit Card
+ORD100223,24-06-2023,CUST1295,Suresh Bose,Male,27,Chandigarh,North,Electronics,Wireless Mouse,3,630,0.15,1606.5,1269.12,337.38,UPI
+ORD100224,27-06-2023,CUST1325,Rahul Rao,Male,21,Patna,East,Home & Kitchen,Water Bottle,1,306,0.2,244.8,210.23,34.57,Cash on Delivery
+ORD100225,27-06-2023,CUST1294,Aarti Shah,Female,38,Patna,East,Beauty & Personal Care,Trimmer,1,1240,0,1240,799.13,440.87,Debit Card
+ORD100226,27-06-2023,CUST1290,Pooja Rao,Female,32,Bhubaneswar,East,Beauty & Personal Care,Skincare Kit,2,1950,0,3900,2380.03,1519.97,UPI
+ORD100227,28-06-2023,CUST1262,Rajesh Sharma,Male,18,Chennai,South,Electronics,Laptop Stand,1,1300,0.1,1170,780.75,389.25,Debit Card
+ORD100228,29-06-2023,CUST1232,Vijay Rao,Male,35,Chennai,South,Sports & Fitness,Football,1,740,0.05,703,446.92,256.08,Credit Card
+ORD100229,29-06-2023,CUST1314,Kiran Mehta,Female,49,Jaipur,North,Beauty & Personal Care,Shampoo,2,352,0,704,542.24,161.76,UPI
+ORD100230,01-07-2023,CUST1258,Aarti Pillai,Female,39,Chennai,South,Office Supplies,Ballpoint Pen Set,1,147,0.05,139.65,114.14,25.51,UPI
+ORD100231,01-07-2023,CUST1299,Swati Kumar,Female,41,Guwahati,East,Home & Kitchen,Cushion Cover Set,2,420,0,840,558.44,281.56,Net Banking
+ORD100232,01-07-2023,CUST1308,Shweta Nair,Female,41,Patna,East,Electronics,USB-C Charger,1,770,0,770,529.09,240.91,Debit Card
+ORD100233,01-07-2023,CUST1193,Sneha Nair,Female,21,Chennai,South,Clothing,Sports Shoes,2,2330,0.05,4427,3141.39,1285.61,Debit Card
+ORD100234,02-07-2023,CUST1169,Preeti Pillai,Female,26,Kochi,South,Sports & Fitness,Yoga Mat,1,590,0.05,560.5,396.23,164.27,Credit Card
+ORD100235,02-07-2023,CUST1147,Ashok Singh,Male,20,Chandigarh,North,Electronics,Earbuds,2,2490,0.2,3984,3773.53,210.47,Credit Card
+ORD100236,03-07-2023,CUST1143,Sneha Rao,Female,37,Mumbai,West,Beauty & Personal Care,Skincare Kit,2,1820,0.1,3276,2754.66,521.34,UPI
+ORD100237,03-07-2023,CUST1008,Rajesh Singh,Male,29,Kochi,South,Home & Kitchen,Water Bottle,2,296,0,592,362.92,229.08,UPI
+ORD100238,04-07-2023,CUST1216,Preeti Sharma,Female,26,Patna,East,Home & Kitchen,Non-stick Pan,1,910,0.05,864.5,558.73,305.77,Debit Card
+ORD100239,04-07-2023,CUST1266,Vijay Malhotra,Male,52,Hyderabad,South,Office Supplies,Office Chair,1,4770,0.1,4293,3028.08,1264.92,UPI
+ORD100240,04-07-2023,CUST1340,Ashok Malhotra,Male,25,Bhubaneswar,East,Clothing,Men's T-Shirt,3,504,0,1512,960.66,551.34,Credit Card
+ORD100241,05-07-2023,CUST1082,Anita Sharma,Female,51,Coimbatore,South,Electronics,Laptop Stand,2,1390,0.05,2641,1958.28,682.72,Credit Card
+ORD100242,06-07-2023,CUST1264,Swati Singh,Female,32,Bengaluru,South,Clothing,Winter Jacket,2,3000,0.15,5100,4274.18,825.82,UPI
+ORD100243,07-07-2023,CUST1065,Amit Pillai,Male,49,Ahmedabad,West,Office Supplies,Whiteboard,1,1320,0,1320,892.28,427.72,Net Banking
+ORD100244,08-07-2023,CUST1300,Vijay Gupta,Male,25,Ahmedabad,West,Home & Kitchen,LED Table Lamp,2,790,0,1580,1138.88,441.12,UPI
+ORD100245,09-07-2023,CUST1263,Nikhil Joshi,Male,23,Chennai,South,Clothing,Formal Shirt,4,1140,0,4560,3202.17,1357.83,UPI
+ORD100246,09-07-2023,CUST1066,Vijay Shah,Male,34,Ahmedabad,West,Clothing,Sports Shoes,1,2160,0,2160,1606.07,553.93,UPI
+ORD100247,09-07-2023,CUST1000,Rahul Iyer,Male,40,Bengaluru,South,Beauty & Personal Care,Skincare Kit,1,1820,0,1820,1245.68,574.32,Debit Card
+ORD100248,10-07-2023,CUST1142,Sunita Iyer,Female,18,Patna,East,Electronics,Bluetooth Speaker,2,1940,0.05,3686,2364.19,1321.81,Credit Card
+ORD100249,10-07-2023,CUST1169,Preeti Pillai,Female,26,Kochi,South,Electronics,Webcam,3,1910,0.15,4870.5,4117.47,753.03,UPI
+ORD100250,11-07-2023,CUST1039,Ashok Bose,Male,37,Jaipur,North,Home & Kitchen,Storage Containers Set,3,620,0.05,1767,1439.76,327.24,Credit Card
+ORD100251,11-07-2023,CUST1184,Sanjay Singh,Male,32,Patna,East,Beauty & Personal Care,Face Wash,3,252,0.15,642.6,510.99,131.61,Credit Card
+ORD100252,11-07-2023,CUST1204,Ajay Agarwal,Male,19,Guwahati,East,Office Supplies,Office Chair,2,5130,0.1,9234,7076.52,2157.48,Debit Card
+ORD100253,11-07-2023,CUST1349,Aarti Kumar,Female,32,Pune,West,Clothing,Denim Jeans,4,1620,0.1,5832,4379.34,1452.66,Credit Card
+ORD100254,12-07-2023,CUST1068,Kunal Gupta,Male,38,Patna,East,Clothing,Formal Shirt,1,1180,0.05,1121,780.3,340.7,Debit Card
+ORD100255,12-07-2023,CUST1226,Anjali Reddy,Female,35,Bengaluru,South,Office Supplies,Desk Organizer,1,740,0,740,455.28,284.72,Credit Card
+ORD100256,12-07-2023,CUST1344,Vikram Malhotra,Male,29,Bhubaneswar,East,Home & Kitchen,Non-stick Pan,4,930,0,3720,2859.57,860.43,Cash on Delivery
+ORD100257,13-07-2023,CUST1042,Swati Malhotra,Female,33,Bhubaneswar,East,Clothing,Winter Jacket,5,2850,0,14250,10284.01,3965.99,UPI
+ORD100258,14-07-2023,CUST1170,Preeti Mehta,Female,25,Kochi,South,Clothing,Men's T-Shirt,2,478,0,956,680.45,275.55,Credit Card
+ORD100259,14-07-2023,CUST1164,Ravi Reddy,Male,45,Ahmedabad,West,Office Supplies,Whiteboard,3,1400,0.2,3360,2852.44,507.56,Net Banking
+ORD100260,16-07-2023,CUST1054,Sandeep Malhotra,Male,46,Lucknow,North,Sports & Fitness,Football,2,700,0.1,1260,913.5,346.5,Credit Card
+ORD100261,17-07-2023,CUST1228,Rekha Chatterjee,Female,27,Kolkata,East,Home & Kitchen,Storage Containers Set,1,640,0.2,512,498.6,13.4,Cash on Delivery
+ORD100262,17-07-2023,CUST1007,Rohit Mehta,Male,43,Delhi,North,Office Supplies,Desk Organizer,3,730,0,2190,1506.93,683.07,UPI
+ORD100263,18-07-2023,CUST1273,Nikhil Malhotra,Male,35,Bengaluru,South,Electronics,Webcam,1,1810,0,1810,1367.73,442.27,Cash on Delivery
+ORD100264,19-07-2023,CUST1298,Deepak Agarwal,Male,43,Coimbatore,South,Clothing,Denim Jeans,2,1510,0.2,2416,1846.79,569.21,Debit Card
+ORD100265,19-07-2023,CUST1187,Shweta Shah,Female,34,Pune,West,Electronics,Wireless Mouse,5,580,0,2900,1956.43,943.57,UPI
+ORD100266,19-07-2023,CUST1298,Deepak Agarwal,Male,43,Coimbatore,South,Home & Kitchen,Cushion Cover Set,1,414,0,414,307.2,106.8,Credit Card
+ORD100267,20-07-2023,CUST1272,Meena Verma,Female,47,Kochi,South,Clothing,Winter Jacket,1,2860,0,2860,2110.61,749.39,UPI
+ORD100268,20-07-2023,CUST1074,Manoj Gupta,Male,18,Bengaluru,South,Electronics,Power Bank,1,1240,0.2,992,777.72,214.28,Debit Card
+ORD100269,22-07-2023,CUST1228,Rekha Chatterjee,Female,27,Kolkata,East,Home & Kitchen,Storage Containers Set,1,590,0.05,560.5,444.39,116.11,Debit Card
+ORD100270,23-07-2023,CUST1062,Neha Reddy,Female,22,Hyderabad,South,Clothing,Sports Shoes,1,2370,0.1,2133,1453.61,679.39,Cash on Delivery
+ORD100271,24-07-2023,CUST1093,Rajesh Verma,Male,31,Guwahati,East,Sports & Fitness,Dumbbell Set,3,1750,0.1,4725,3941.82,783.18,UPI
+ORD100272,24-07-2023,CUST1080,Divya Iyer,Female,32,Guwahati,East,Clothing,Formal Shirt,4,1140,0.1,4104,2912.42,1191.58,UPI
+ORD100273,25-07-2023,CUST1027,Gaurav Shah,Male,39,Ahmedabad,West,Beauty & Personal Care,Shampoo,1,373,0,373,262.89,110.11,Credit Card
+ORD100274,25-07-2023,CUST1291,Vijay Mehta,Male,29,Lucknow,North,Electronics,USB-C Charger,1,850,0.1,765,606.59,158.41,Cash on Delivery
+ORD100275,25-07-2023,CUST1269,Sanjay Bose,Male,36,Lucknow,North,Electronics,Smartwatch,2,3670,0.15,6239,5483.96,755.04,Credit Card
+ORD100276,26-07-2023,CUST1032,Aarti Patel,Female,34,Delhi,North,Office Supplies,Office Chair,3,5050,0,15150,9778.4,5371.6,Credit Card
+ORD100277,26-07-2023,CUST1286,Ashok Malhotra,Male,33,Kochi,South,Beauty & Personal Care,Shampoo,1,350,0.1,315,232.71,82.29,Credit Card
+ORD100278,27-07-2023,CUST1120,Sandeep Nair,Male,43,Delhi,North,Office Supplies,Desk Organizer,3,740,0.05,2109,1575.97,533.03,Credit Card
+ORD100279,27-07-2023,CUST1138,Rajesh Kapoor,Male,43,Mumbai,West,Sports & Fitness,Dumbbell Set,1,1810,0.1,1629,1391.76,237.24,UPI
+ORD100280,27-07-2023,CUST1167,Vikram Nair,Male,55,Kolkata,East,Clothing,Denim Jeans,1,1440,0.15,1224,916.89,307.11,Debit Card
+ORD100281,28-07-2023,CUST1011,Sandeep Das,Male,29,Kochi,South,Clothing,Sports Shoes,1,2110,0,2110,1492.06,617.94,UPI
+ORD100282,28-07-2023,CUST1285,Gaurav Pillai,Male,18,Delhi,North,Home & Kitchen,LED Table Lamp,5,770,0.1,3465,2490.04,974.96,Debit Card
+ORD100283,30-07-2023,CUST1109,Preeti Sharma,Female,34,Hyderabad,South,Beauty & Personal Care,Trimmer,1,1400,0.1,1260,1068.79,191.21,Net Banking
+ORD100284,31-07-2023,CUST1312,Sneha Kumar,Female,44,Mumbai,West,Home & Kitchen,Blender,2,2300,0,4600,2825.76,1774.24,UPI
+ORD100285,01-08-2023,CUST1209,Deepak Iyer,Male,70,Coimbatore,South,Clothing,Men's T-Shirt,1,535,0.05,508.25,415.47,92.78,UPI
+ORD100286,01-08-2023,CUST1142,Sunita Iyer,Female,18,Patna,East,Home & Kitchen,Cushion Cover Set,3,391,0.2,938.4,792.4,146,Net Banking
+ORD100287,01-08-2023,CUST1060,Rajesh Sharma,Male,29,Kolkata,East,Electronics,Bluetooth Speaker,1,1980,0.05,1881,1273.73,607.27,UPI
+ORD100288,02-08-2023,CUST1300,Vijay Gupta,Male,25,Ahmedabad,West,Office Supplies,Whiteboard,1,1350,0,1350,982.09,367.91,Credit Card
+ORD100289,03-08-2023,CUST1013,Sneha Nair,Female,18,Delhi,North,Sports & Fitness,Cricket Bat,4,1510,0,6040,4175.47,1864.53,Cash on Delivery
+ORD100290,03-08-2023,CUST1159,Shalini Gupta,Female,42,Chennai,South,Electronics,Laptop Stand,2,1260,0,2520,1750.35,769.65,UPI
+ORD100291,04-08-2023,CUST1313,Ravi Reddy,Male,43,Kolkata,East,Clothing,Women's Kurti,1,920,0.1,828,571.41,256.59,UPI
+ORD100292,07-08-2023,CUST1274,Pooja Joshi,Female,24,Kochi,South,Clothing,Denim Jeans,1,1560,0,1560,938.2,621.8,Debit Card
+ORD100293,07-08-2023,CUST1004,Sandeep Agarwal,Male,32,Bengaluru,South,Home & Kitchen,Blender,2,2360,0.2,3776,3199.45,576.55,UPI
+ORD100294,12-08-2023,CUST1101,Nisha Shah,Female,30,Delhi,North,Clothing,Men's T-Shirt,2,515,0,1030,748.73,281.27,Net Banking
+ORD100295,13-08-2023,CUST1136,Priya Chatterjee,Female,26,Coimbatore,South,Home & Kitchen,Water Bottle,2,313,0.2,500.8,383.37,117.43,Credit Card
+ORD100296,14-08-2023,CUST1281,Neha Kumar,Female,42,Chennai,South,Clothing,Sports Shoes,2,2200,0,4400,2913.39,1486.61,Debit Card
+ORD100297,14-08-2023,CUST1227,Shalini Agarwal,Female,23,Pune,West,Home & Kitchen,Non-stick Pan,1,950,0.15,807.5,642.46,165.04,UPI
+ORD100298,14-08-2023,CUST1059,Divya Chatterjee,Female,45,Pune,West,Electronics,Power Bank,1,1190,0.05,1130.5,828.72,301.78,UPI
+ORD100299,15-08-2023,CUST1276,Nikhil Gupta,Male,37,Chandigarh,North,Home & Kitchen,Storage Containers Set,1,630,0,630,428.92,201.08,UPI
+ORD100300,15-08-2023,CUST1104,Nisha Gupta,Female,33,Coimbatore,South,Clothing,Formal Shirt,1,1140,0,1140,823.64,316.36,Credit Card
+ORD100301,17-08-2023,CUST1348,Shweta Reddy,Female,27,Coimbatore,South,Beauty & Personal Care,Face Wash,2,246,0.05,467.4,299.07,168.33,Debit Card
+ORD100302,17-08-2023,CUST1039,Ashok Bose,Male,37,Jaipur,North,Home & Kitchen,LED Table Lamp,1,750,0.1,675,549.15,125.85,Cash on Delivery
+ORD100303,17-08-2023,CUST1241,Shweta Patel,Female,33,Jaipur,North,Office Supplies,Ballpoint Pen Set,1,157,0.05,149.15,119.69,29.46,Debit Card
+ORD100304,17-08-2023,CUST1123,Kavita Rao,Female,19,Bhubaneswar,East,Clothing,Denim Jeans,2,1470,0.2,2352,2083.37,268.63,Credit Card
+ORD100305,17-08-2023,CUST1060,Rajesh Sharma,Male,29,Kolkata,East,Electronics,Power Bank,4,1280,0.2,4096,3232.26,863.74,UPI
+ORD100306,18-08-2023,CUST1052,Suresh Verma,Male,27,Kolkata,East,Home & Kitchen,Water Bottle,1,289,0.1,260.1,215.39,44.71,UPI
+ORD100307,18-08-2023,CUST1329,Shweta Agarwal,Female,41,Kolkata,East,Office Supplies,Office Chair,1,4910,0,4910,3031.41,1878.59,UPI
+ORD100308,18-08-2023,CUST1084,Preeti Sharma,Female,26,Delhi,North,Sports & Fitness,Cricket Bat,1,1530,0.05,1453.5,1067.19,386.31,Credit Card
+ORD100309,20-08-2023,CUST1217,Sanjay Singh,Male,32,Bhubaneswar,East,Home & Kitchen,LED Table Lamp,2,800,0,1600,1191.27,408.73,Debit Card
+ORD100310,24-08-2023,CUST1175,Rohit Das,Male,44,Bengaluru,South,Sports & Fitness,Football,2,750,0.1,1350,1070.72,279.28,UPI
+ORD100311,24-08-2023,CUST1309,Kunal Iyer,Male,32,Mumbai,West,Electronics,Smartwatch,5,3640,0.05,17290,11689.77,5600.23,UPI
+ORD100312,25-08-2023,CUST1315,Ritu Mehta,Female,35,Ahmedabad,West,Electronics,USB-C Charger,3,800,0.15,2040,1606.15,433.85,UPI
+ORD100313,25-08-2023,CUST1110,Divya Agarwal,Female,18,Coimbatore,South,Sports & Fitness,Yoga Mat,2,590,0.15,1003,918.16,84.84,Credit Card
+ORD100314,26-08-2023,CUST1072,Nikhil Shah,Male,34,Delhi,North,Office Supplies,Notebook Pack,1,210,0.05,199.5,157.78,41.72,Credit Card
+ORD100315,26-08-2023,CUST1081,Anita Gupta,Female,38,Patna,East,Clothing,Formal Shirt,2,1130,0.1,2034,1544.55,489.45,Cash on Delivery
+ORD100316,27-08-2023,CUST1294,Aarti Shah,Female,38,Patna,East,Electronics,Smartwatch,2,3600,0.1,6480,4666.55,1813.45,Debit Card
+ORD100317,28-08-2023,CUST1319,Divya Pillai,Female,33,Delhi,North,Electronics,Wireless Mouse,2,570,0.1,1026,811.78,214.22,Cash on Delivery
+ORD100318,28-08-2023,CUST1312,Sneha Kumar,Female,44,Mumbai,West,Clothing,Sports Shoes,3,2370,0.15,6043.5,4865.83,1177.67,Net Banking
+ORD100319,28-08-2023,CUST1024,Shweta Chatterjee,Female,29,Kochi,South,Electronics,Wireless Mouse,1,580,0.05,551,375.12,175.88,UPI
+ORD100320,30-08-2023,CUST1013,Sneha Nair,Female,18,Delhi,North,Clothing,Formal Shirt,2,1150,0.1,2070,1468.17,601.83,UPI
+ORD100321,30-08-2023,CUST1214,Kiran Rao,Female,31,Delhi,North,Sports & Fitness,Cricket Bat,1,1560,0,1560,1176.29,383.71,UPI
+ORD100322,31-08-2023,CUST1095,Shalini Nair,Female,18,Mumbai,West,Clothing,Men's T-Shirt,1,509,0.05,483.55,388.59,94.96,UPI
+ORD100323,31-08-2023,CUST1044,Priya Kapoor,Female,18,Bengaluru,South,Clothing,Men's T-Shirt,1,519,0.05,493.05,378.44,114.61,Net Banking
+ORD100324,01-09-2023,CUST1078,Suresh Bose,Male,36,Lucknow,North,Beauty & Personal Care,Trimmer,1,1330,0,1330,942.68,387.32,Net Banking
+ORD100325,01-09-2023,CUST1016,Sneha Shah,Female,23,Jaipur,North,Electronics,Bluetooth Speaker,1,2100,0.1,1890,1348.2,541.8,UPI
+ORD100326,02-09-2023,CUST1009,Bhavna Iyer,Female,40,Pune,West,Home & Kitchen,Storage Containers Set,1,590,0,590,369.64,220.36,Net Banking
+ORD100327,02-09-2023,CUST1348,Shweta Reddy,Female,27,Coimbatore,South,Office Supplies,Desk Organizer,3,710,0.15,1810.5,1644.28,166.22,UPI
+ORD100328,04-09-2023,CUST1073,Sandeep Reddy,Male,52,Chennai,South,Clothing,Men's T-Shirt,2,532,0.1,957.6,671.4,286.2,UPI
+ORD100329,04-09-2023,CUST1203,Aarti Malhotra,Female,46,Chennai,South,Sports & Fitness,Resistance Bands,4,479,0.05,1820.2,1431.47,388.73,Credit Card
+ORD100330,04-09-2023,CUST1119,Karan Pillai,Male,43,Bhubaneswar,East,Sports & Fitness,Yoga Mat,1,630,0.1,567,393.35,173.65,Debit Card
+ORD100331,05-09-2023,CUST1305,Pooja Kapoor,Female,36,Chandigarh,North,Home & Kitchen,Water Bottle,2,289,0,578,382.76,195.24,UPI
+ORD100332,06-09-2023,CUST1149,Karan Das,Male,38,Delhi,North,Office Supplies,Office Chair,3,5300,0.05,15105,12024.99,3080.01,Cash on Delivery
+ORD100333,07-09-2023,CUST1040,Aarti Shah,Female,43,Patna,East,Clothing,Formal Shirt,1,1110,0,1110,863.14,246.86,UPI
+ORD100334,07-09-2023,CUST1236,Vikram Nair,Male,18,Ahmedabad,West,Clothing,Formal Shirt,1,1130,0,1130,735.88,394.12,Debit Card
+ORD100335,09-09-2023,CUST1100,Kunal Agarwal,Male,19,Kochi,South,Office Supplies,Whiteboard,3,1280,0.15,3264,2889.11,374.89,Net Banking
+ORD100336,09-09-2023,CUST1233,Bhavna Chatterjee,Female,27,Ahmedabad,West,Beauty & Personal Care,Face Wash,1,238,0,238,180.47,57.53,Cash on Delivery
+ORD100337,10-09-2023,CUST1247,Nisha Iyer,Female,27,Bhubaneswar,East,Beauty & Personal Care,Perfume,1,1720,0.1,1548,1132.68,415.32,Debit Card
+ORD100338,11-09-2023,CUST1163,Anjali Iyer,Female,25,Chennai,South,Electronics,Bluetooth Speaker,4,2140,0.05,8132,5310.48,2821.52,Debit Card
+ORD100339,12-09-2023,CUST1272,Meena Verma,Female,47,Kochi,South,Clothing,Women's Kurti,1,960,0,960,660.57,299.43,UPI
+ORD100340,12-09-2023,CUST1274,Pooja Joshi,Female,24,Kochi,South,Home & Kitchen,Non-stick Pan,1,930,0.15,790.5,587.65,202.85,Credit Card
+ORD100341,12-09-2023,CUST1264,Swati Singh,Female,32,Bengaluru,South,Home & Kitchen,Water Bottle,4,296,0.2,947.2,780.04,167.16,Net Banking
+ORD100342,12-09-2023,CUST1283,Manoj Nair,Male,21,Coimbatore,South,Beauty & Personal Care,Trimmer,3,1340,0.1,3618,2795.73,822.27,Debit Card
+ORD100343,16-09-2023,CUST1344,Vikram Malhotra,Male,29,Bhubaneswar,East,Home & Kitchen,Water Bottle,4,284,0.1,1022.4,859.07,163.33,Debit Card
+ORD100344,23-09-2023,CUST1190,Karan Sharma,Male,30,Patna,East,Office Supplies,Notebook Pack,3,207,0,621,464.82,156.18,UPI
+ORD100345,24-09-2023,CUST1255,Anita Kapoor,Female,29,Kochi,South,Home & Kitchen,Cushion Cover Set,1,397,0,397,308.94,88.06,Credit Card
+ORD100346,25-09-2023,CUST1057,Sandeep Sharma,Male,31,Ahmedabad,West,Beauty & Personal Care,Trimmer,2,1380,0,2760,1898.25,861.75,Credit Card
+ORD100347,28-09-2023,CUST1183,Arjun Kumar,Male,40,Hyderabad,South,Electronics,Webcam,2,1830,0.05,3477,2810.61,666.39,Debit Card
+ORD100348,29-09-2023,CUST1327,Sneha Chatterjee,Female,43,Pune,West,Office Supplies,Desk Organizer,3,750,0,2250,1376.41,873.59,UPI
+ORD100349,30-09-2023,CUST1188,Rohit Reddy,Male,25,Chennai,South,Beauty & Personal Care,Face Wash,1,238,0.05,226.1,173.86,52.24,Net Banking
+ORD100350,01-10-2023,CUST1116,Nisha Kapoor,Female,34,Chandigarh,North,Clothing,Sports Shoes,3,2320,0.05,6612,4259.27,2352.73,Debit Card
+ORD100351,01-10-2023,CUST1312,Sneha Kumar,Female,44,Mumbai,West,Sports & Fitness,Resistance Bands,2,486,0.1,874.8,591.18,283.62,Debit Card
+ORD100352,03-10-2023,CUST1109,Preeti Sharma,Female,34,Hyderabad,South,Beauty & Personal Care,Shampoo,1,359,0,359,248.78,110.22,UPI
+ORD100353,03-10-2023,CUST1243,Ashok Kapoor,Male,44,Lucknow,North,Clothing,Women's Kurti,1,870,0.05,826.5,600.79,225.71,Cash on Delivery
+ORD100354,04-10-2023,CUST1176,Kavita Das,Female,35,Mumbai,West,Sports & Fitness,Football,3,740,0,2220,1652.74,567.26,Debit Card
+ORD100355,06-10-2023,CUST1093,Rajesh Verma,Male,31,Guwahati,East,Electronics,Power Bank,2,1250,0.1,2250,1560.5,689.5,Cash on Delivery
+ORD100356,07-10-2023,CUST1304,Vikram Shah,Male,34,Hyderabad,South,Clothing,Denim Jeans,2,1530,0,3060,2384.78,675.22,Credit Card
+ORD100357,08-10-2023,CUST1225,Anjali Bose,Female,46,Kolkata,East,Office Supplies,Desk Organizer,4,730,0,2920,1752.58,1167.42,Credit Card
+ORD100358,10-10-2023,CUST1044,Priya Kapoor,Female,18,Bengaluru,South,Clothing,Formal Shirt,1,1120,0.2,896,694.32,201.68,UPI
+ORD100359,11-10-2023,CUST1048,Divya Bose,Female,38,Lucknow,North,Electronics,Power Bank,2,1280,0.05,2432,1685.45,746.55,Cash on Delivery
+ORD100360,12-10-2023,CUST1324,Anil Das,Male,23,Coimbatore,South,Beauty & Personal Care,Face Wash,2,243,0,486,331,155,UPI
+ORD100361,13-10-2023,CUST1135,Shalini Iyer,Female,52,Patna,East,Home & Kitchen,Blender,2,2170,0.1,3906,2805.46,1100.54,Cash on Delivery
+ORD100362,15-10-2023,CUST1092,Shalini Iyer,Female,27,Jaipur,North,Electronics,USB-C Charger,2,810,0,1620,995.5,624.5,Credit Card
+ORD100363,15-10-2023,CUST1105,Pooja Das,Female,39,Hyderabad,South,Beauty & Personal Care,Skincare Kit,4,1830,0,7320,4818.07,2501.93,Debit Card
+ORD100364,16-10-2023,CUST1027,Gaurav Shah,Male,39,Ahmedabad,West,Electronics,Earbuds,2,2430,0.2,3888,3311.18,576.82,Credit Card
+ORD100365,17-10-2023,CUST1268,Vikram Rao,Male,30,Delhi,North,Office Supplies,Whiteboard,3,1280,0,3840,2510.93,1329.07,Credit Card
+ORD100366,18-10-2023,CUST1281,Neha Kumar,Female,42,Chennai,South,Clothing,Women's Kurti,1,920,0.1,828,605.58,222.42,Cash on Delivery
+ORD100367,18-10-2023,CUST1268,Vikram Rao,Male,30,Delhi,North,Electronics,Webcam,1,1730,0.1,1557,1237.86,319.14,Debit Card
+ORD100368,19-10-2023,CUST1295,Suresh Bose,Male,27,Chandigarh,North,Home & Kitchen,Water Bottle,3,299,0.05,852.15,699.21,152.94,UPI
+ORD100369,19-10-2023,CUST1229,Ashok Verma,Male,42,Lucknow,North,Sports & Fitness,Yoga Mat,1,610,0.05,579.5,453.59,125.91,UPI
+ORD100370,21-10-2023,CUST1210,Rajesh Pillai,Male,41,Mumbai,West,Electronics,Laptop Stand,2,1240,0,2480,1844.03,635.97,UPI
+ORD100371,24-10-2023,CUST1203,Aarti Malhotra,Female,46,Chennai,South,Beauty & Personal Care,Shampoo,1,363,0,363,271.32,91.68,Cash on Delivery
+ORD100372,24-10-2023,CUST1137,Kavita Malhotra,Female,31,Lucknow,North,Clothing,Men's T-Shirt,5,530,0,2650,1609.25,1040.75,Credit Card
+ORD100373,24-10-2023,CUST1276,Nikhil Gupta,Male,37,Chandigarh,North,Electronics,Wireless Mouse,2,630,0,1260,805.94,454.06,Credit Card
+ORD100374,25-10-2023,CUST1283,Manoj Nair,Male,21,Coimbatore,South,Home & Kitchen,Blender,2,2130,0.1,3834,2798.02,1035.98,Credit Card
+ORD100375,25-10-2023,CUST1085,Arjun Bose,Male,29,Pune,West,Electronics,Wireless Mouse,4,580,0,2320,1763,557,Debit Card
+ORD100376,26-10-2023,CUST1242,Vijay Shah,Male,40,Kolkata,East,Home & Kitchen,Cushion Cover Set,1,394,0.05,374.3,282.07,92.23,Credit Card
+ORD100377,27-10-2023,CUST1305,Pooja Kapoor,Female,36,Chandigarh,North,Home & Kitchen,Storage Containers Set,1,590,0,590,409.12,180.88,Cash on Delivery
+ORD100378,29-10-2023,CUST1208,Preeti Verma,Female,40,Bhubaneswar,East,Home & Kitchen,Cushion Cover Set,2,395,0,790,543.83,246.17,Credit Card
+ORD100379,30-10-2023,CUST1077,Pooja Kumar,Female,31,Chennai,South,Clothing,Men's T-Shirt,1,537,0.15,456.45,397.83,58.62,UPI
+ORD100380,02-11-2023,CUST1281,Neha Kumar,Female,42,Chennai,South,Home & Kitchen,Storage Containers Set,2,620,0,1240,778.87,461.13,UPI
+ORD100381,02-11-2023,CUST1074,Manoj Gupta,Male,18,Bengaluru,South,Beauty & Personal Care,Skincare Kit,2,1810,0,3620,2685.05,934.95,Net Banking
+ORD100382,02-11-2023,CUST1191,Bhavna Rao,Female,44,Hyderabad,South,Home & Kitchen,Cushion Cover Set,1,401,0.15,340.85,292.14,48.71,UPI
+ORD100383,03-11-2023,CUST1074,Manoj Gupta,Male,18,Bengaluru,South,Electronics,Power Bank,2,1200,0,2400,1608.95,791.05,Debit Card
+ORD100384,03-11-2023,CUST1211,Nisha Verma,Female,47,Chandigarh,North,Sports & Fitness,Yoga Mat,1,630,0.15,535.5,382.55,152.95,Net Banking
+ORD100385,03-11-2023,CUST1296,Kiran Nair,Female,44,Patna,East,Clothing,Men's T-Shirt,1,477,0.15,405.45,355.37,50.08,Credit Card
+ORD100386,06-11-2023,CUST1120,Sandeep Nair,Male,43,Delhi,North,Clothing,Denim Jeans,5,1600,0.2,6400,5482.87,917.13,Cash on Delivery
+ORD100387,06-11-2023,CUST1219,Nisha Rao,Female,35,Guwahati,East,Electronics,Smartwatch,1,3500,0.1,3150,2424.88,725.12,Cash on Delivery
+ORD100388,06-11-2023,CUST1190,Karan Sharma,Male,30,Patna,East,Clothing,Denim Jeans,3,1550,0,4650,2840.17,1809.83,Credit Card
+ORD100389,06-11-2023,CUST1305,Pooja Kapoor,Female,36,Chandigarh,North,Electronics,Smartwatch,1,3490,0.05,3315.5,2624.9,690.6,Cash on Delivery
+ORD100390,06-11-2023,CUST1080,Divya Iyer,Female,32,Guwahati,East,Electronics,Earbuds,4,2550,0,10200,7465.79,2734.21,Debit Card
+ORD100391,07-11-2023,CUST1015,Manoj Joshi,Male,28,Chandigarh,North,Beauty & Personal Care,Trimmer,2,1370,0.05,2603,1822.81,780.19,Cash on Delivery
+ORD100392,07-11-2023,CUST1243,Ashok Kapoor,Male,44,Lucknow,North,Sports & Fitness,Resistance Bands,2,517,0.15,878.9,654.89,224.01,Credit Card
+ORD100393,07-11-2023,CUST1128,Sanjay Chatterjee,Male,36,Lucknow,North,Electronics,Laptop Stand,3,1280,0,3840,2697.91,1142.09,Credit Card
+ORD100394,08-11-2023,CUST1233,Bhavna Chatterjee,Female,27,Ahmedabad,West,Electronics,USB-C Charger,2,800,0.2,1280,1029.32,250.68,Debit Card
+ORD100395,09-11-2023,CUST1097,Anil Joshi,Male,37,Kolkata,East,Clothing,Winter Jacket,3,2970,0.2,7128,6765.13,362.87,UPI
+ORD100396,09-11-2023,CUST1043,Sanjay Nair,Male,31,Ahmedabad,West,Office Supplies,Desk Organizer,2,690,0.1,1242,895.72,346.28,Credit Card
+ORD100397,10-11-2023,CUST1159,Shalini Gupta,Female,42,Chennai,South,Electronics,Power Bank,2,1260,0,2520,1920.28,599.72,UPI
+ORD100398,11-11-2023,CUST1000,Rahul Iyer,Male,40,Bengaluru,South,Office Supplies,Office Chair,2,4860,0.2,7776,7472.05,303.95,Net Banking
+ORD100399,13-11-2023,CUST1277,Amit Mehta,Male,28,Bengaluru,South,Office Supplies,Ballpoint Pen Set,5,157,0,785,608.02,176.98,Net Banking
+ORD100400,13-11-2023,CUST1091,Priya Patel,Female,45,Coimbatore,South,Beauty & Personal Care,Face Wash,1,267,0.1,240.3,170.9,69.4,UPI
+ORD100401,14-11-2023,CUST1290,Pooja Rao,Female,32,Bhubaneswar,East,Electronics,Webcam,1,1840,0.1,1656,1232.75,423.25,Credit Card
+ORD100402,14-11-2023,CUST1022,Neha Iyer,Female,35,Lucknow,North,Beauty & Personal Care,Face Wash,4,260,0.05,988,723.61,264.39,Debit Card
+ORD100403,14-11-2023,CUST1288,Ravi Das,Male,38,Bhubaneswar,East,Clothing,Sports Shoes,1,2180,0,2180,1580.58,599.42,UPI
+ORD100404,15-11-2023,CUST1235,Preeti Verma,Female,41,Ahmedabad,West,Clothing,Winter Jacket,1,3230,0.15,2745.5,2273.4,472.1,Credit Card
+ORD100405,17-11-2023,CUST1186,Ritu Kapoor,Female,40,Patna,East,Beauty & Personal Care,Trimmer,2,1290,0.1,2322,1852.02,469.98,Credit Card
+ORD100406,18-11-2023,CUST1262,Rajesh Sharma,Male,18,Chennai,South,Clothing,Sports Shoes,2,2150,0.1,3870,2808.56,1061.44,UPI
+ORD100407,19-11-2023,CUST1095,Shalini Nair,Female,18,Mumbai,West,Home & Kitchen,Storage Containers Set,2,620,0.05,1178,805.59,372.41,UPI
+ORD100408,19-11-2023,CUST1301,Pooja Joshi,Female,28,Lucknow,North,Office Supplies,Desk Organizer,1,680,0.1,612,464.28,147.72,Cash on Delivery
+ORD100409,19-11-2023,CUST1284,Karan Iyer,Male,58,Pune,West,Electronics,Laptop Stand,2,1370,0,2740,1956.27,783.73,Credit Card
+ORD100410,19-11-2023,CUST1003,Sanjay Pillai,Male,51,Mumbai,West,Clothing,Women's Kurti,1,950,0.1,855,607.71,247.29,Credit Card
+ORD100411,20-11-2023,CUST1266,Vijay Malhotra,Male,52,Hyderabad,South,Electronics,USB-C Charger,3,820,0.2,1968,1522.9,445.1,UPI
+ORD100412,21-11-2023,CUST1304,Vikram Shah,Male,34,Hyderabad,South,Electronics,Wireless Mouse,4,580,0.05,2204,1473.27,730.73,Cash on Delivery
+ORD100413,21-11-2023,CUST1194,Gaurav Singh,Male,36,Bengaluru,South,Office Supplies,Ballpoint Pen Set,1,148,0.2,118.4,89.87,28.53,UPI
+ORD100414,23-11-2023,CUST1102,Shweta Reddy,Female,31,Chennai,South,Clothing,Women's Kurti,3,860,0.1,2322,1768.42,553.58,Cash on Delivery
+ORD100415,23-11-2023,CUST1197,Pooja Malhotra,Female,36,Hyderabad,South,Sports & Fitness,Resistance Bands,1,483,0.05,458.85,341.09,117.76,Debit Card
+ORD100416,23-11-2023,CUST1164,Ravi Reddy,Male,45,Ahmedabad,West,Electronics,Laptop Stand,4,1350,0.1,4860,3897.42,962.58,Debit Card
+ORD100417,23-11-2023,CUST1323,Rohit Das,Male,58,Chandigarh,North,Clothing,Denim Jeans,1,1430,0.05,1358.5,970.79,387.71,UPI
+ORD100418,24-11-2023,CUST1169,Preeti Pillai,Female,26,Kochi,South,Office Supplies,Ballpoint Pen Set,2,156,0,312,236.5,75.5,Debit Card
+ORD100419,24-11-2023,CUST1238,Vikram Sharma,Male,27,Pune,West,Electronics,Webcam,2,1810,0,3620,2689.9,930.1,Net Banking
+ORD100420,25-11-2023,CUST1253,Rohit Shah,Male,46,Chennai,South,Beauty & Personal Care,Face Wash,4,250,0,1000,685.76,314.24,Net Banking
+ORD100421,28-11-2023,CUST1126,Shalini Iyer,Female,24,Coimbatore,South,Electronics,Laptop Stand,1,1290,0.2,1032,929.08,102.92,Net Banking
+ORD100422,28-11-2023,CUST1057,Sandeep Sharma,Male,31,Ahmedabad,West,Electronics,Smartwatch,3,3570,0.05,10174.5,7156.71,3017.79,Debit Card
+ORD100423,28-11-2023,CUST1250,Ritu Sharma,Female,21,Kolkata,East,Electronics,Smartwatch,2,3770,0.15,6409,4608.68,1800.32,UPI
+ORD100424,29-11-2023,CUST1200,Anjali Shah,Female,38,Chennai,South,Electronics,Earbuds,5,2660,0.05,12635,9925.06,2709.94,Net Banking
+ORD100425,29-11-2023,CUST1013,Sneha Nair,Female,18,Delhi,North,Electronics,Bluetooth Speaker,2,2060,0.1,3708,2569.57,1138.43,UPI
+ORD100426,30-11-2023,CUST1032,Aarti Patel,Female,34,Delhi,North,Home & Kitchen,Cushion Cover Set,2,421,0.2,673.6,507.96,165.64,Credit Card
+ORD100427,02-12-2023,CUST1155,Gaurav Rao,Male,27,Delhi,North,Beauty & Personal Care,Skincare Kit,3,1880,0.2,4512,3757.91,754.09,Credit Card
+ORD100428,02-12-2023,CUST1092,Shalini Iyer,Female,27,Jaipur,North,Home & Kitchen,Storage Containers Set,2,620,0.05,1178,964.19,213.81,Credit Card
+ORD100429,03-12-2023,CUST1035,Rekha Sharma,Female,21,Delhi,North,Sports & Fitness,Resistance Bands,1,487,0,487,374.67,112.33,UPI
+ORD100430,04-12-2023,CUST1078,Suresh Bose,Male,36,Lucknow,North,Clothing,Denim Jeans,2,1430,0.05,2717,1769.16,947.84,Cash on Delivery
+ORD100431,05-12-2023,CUST1115,Sanjay Rao,Male,38,Ahmedabad,West,Home & Kitchen,Non-stick Pan,1,880,0,880,584.34,295.66,Credit Card
+ORD100432,06-12-2023,CUST1310,Anil Das,Male,32,Coimbatore,South,Beauty & Personal Care,Shampoo,4,335,0.15,1139,925.86,213.14,Credit Card
+ORD100433,06-12-2023,CUST1227,Shalini Agarwal,Female,23,Pune,West,Beauty & Personal Care,Face Wash,2,262,0.1,471.6,363.19,108.41,Cash on Delivery
+ORD100434,06-12-2023,CUST1288,Ravi Das,Male,38,Bhubaneswar,East,Sports & Fitness,Cricket Bat,2,1520,0.15,2584,2136.24,447.76,Cash on Delivery
+ORD100435,08-12-2023,CUST1281,Neha Kumar,Female,42,Chennai,South,Clothing,Men's T-Shirt,5,484,0.2,1936,1797.79,138.21,Credit Card
+ORD100436,08-12-2023,CUST1022,Neha Iyer,Female,35,Lucknow,North,Office Supplies,Whiteboard,2,1330,0,2660,1639.03,1020.97,Cash on Delivery
+ORD100437,09-12-2023,CUST1195,Anil Kumar,Male,39,Ahmedabad,West,Electronics,Wireless Mouse,1,630,0.15,535.5,397.36,138.14,Cash on Delivery
+ORD100438,10-12-2023,CUST1177,Anil Verma,Male,50,Pune,West,Home & Kitchen,Water Bottle,2,317,0.1,570.6,455.28,115.32,Cash on Delivery
+ORD100439,10-12-2023,CUST1019,Sanjay Verma,Male,19,Coimbatore,South,Electronics,Bluetooth Speaker,2,2110,0,4220,2980.34,1239.66,Cash on Delivery
+ORD100440,10-12-2023,CUST1193,Sneha Nair,Female,21,Chennai,South,Home & Kitchen,Non-stick Pan,1,950,0.2,760,574.41,185.59,Net Banking
+ORD100441,12-12-2023,CUST1108,Kunal Kapoor,Male,37,Hyderabad,South,Home & Kitchen,Storage Containers Set,2,610,0,1220,897.86,322.14,Net Banking
+ORD100442,13-12-2023,CUST1293,Bhavna Pillai,Female,44,Hyderabad,South,Electronics,Bluetooth Speaker,2,2070,0,4140,2584.29,1555.71,Debit Card
+ORD100443,14-12-2023,CUST1033,Aarti Shah,Female,23,Chandigarh,North,Sports & Fitness,Resistance Bands,5,482,0.1,2169,1813.38,355.62,Net Banking
+ORD100444,15-12-2023,CUST1280,Neha Shah,Female,36,Mumbai,West,Electronics,Webcam,2,1810,0.15,3077,2299.87,777.13,Debit Card
+ORD100445,15-12-2023,CUST1169,Preeti Pillai,Female,26,Kochi,South,Sports & Fitness,Dumbbell Set,1,1930,0.05,1833.5,1248.38,585.12,Net Banking
+ORD100446,17-12-2023,CUST1160,Shalini Malhotra,Female,24,Kolkata,East,Sports & Fitness,Cricket Bat,1,1570,0.15,1334.5,1079.75,254.75,Cash on Delivery
+ORD100447,17-12-2023,CUST1318,Bhavna Malhotra,Female,38,Patna,East,Electronics,Bluetooth Speaker,4,2060,0,8240,5651.25,2588.75,Debit Card
+ORD100448,18-12-2023,CUST1292,Arjun Iyer,Male,28,Coimbatore,South,Clothing,Men's T-Shirt,2,488,0.05,927.2,586.53,340.67,Credit Card
+ORD100449,18-12-2023,CUST1280,Neha Shah,Female,36,Mumbai,West,Home & Kitchen,Cushion Cover Set,3,386,0.1,1042.2,842.53,199.67,Net Banking
+ORD100450,18-12-2023,CUST1214,Kiran Rao,Female,31,Delhi,North,Sports & Fitness,Dumbbell Set,1,1890,0.15,1606.5,1423.29,183.21,Debit Card
+ORD100451,19-12-2023,CUST1275,Rajesh Iyer,Male,40,Chandigarh,North,Home & Kitchen,Non-stick Pan,2,870,0,1740,1056.19,683.81,Debit Card
+ORD100452,19-12-2023,CUST1155,Gaurav Rao,Male,27,Delhi,North,Sports & Fitness,Cricket Bat,2,1570,0.05,2983,2412.31,570.69,UPI
+ORD100453,19-12-2023,CUST1002,Anita Sharma,Female,42,Ahmedabad,West,Home & Kitchen,Blender,1,2100,0,2100,1268.83,831.17,Debit Card
+ORD100454,20-12-2023,CUST1073,Sandeep Reddy,Male,52,Chennai,South,Clothing,Sports Shoes,4,2290,0.1,8244,5747.51,2496.49,Debit Card
+ORD100455,21-12-2023,CUST1217,Sanjay Singh,Male,32,Bhubaneswar,East,Home & Kitchen,Blender,1,2320,0,2320,1616.24,703.76,Debit Card
+ORD100456,22-12-2023,CUST1216,Preeti Sharma,Female,26,Patna,East,Clothing,Winter Jacket,2,3050,0,6100,3723.39,2376.61,Credit Card
+ORD100457,22-12-2023,CUST1070,Anil Chatterjee,Male,38,Lucknow,North,Office Supplies,Ballpoint Pen Set,2,150,0.1,270,228.34,41.66,UPI
+ORD100458,23-12-2023,CUST1245,Priya Malhotra,Female,31,Hyderabad,South,Clothing,Women's Kurti,1,930,0,930,663.86,266.14,Debit Card
+ORD100459,23-12-2023,CUST1338,Arjun Iyer,Male,39,Chandigarh,North,Beauty & Personal Care,Shampoo,1,367,0,367,284.22,82.78,UPI
+ORD100460,23-12-2023,CUST1294,Aarti Shah,Female,38,Patna,East,Electronics,Power Bank,1,1280,0.1,1152,924.33,227.67,UPI
+ORD100461,23-12-2023,CUST1126,Shalini Iyer,Female,24,Coimbatore,South,Clothing,Men's T-Shirt,2,513,0.2,820.8,640.8,180,UPI
+ORD100462,24-12-2023,CUST1046,Vijay Verma,Male,29,Coimbatore,South,Sports & Fitness,Dumbbell Set,1,1910,0,1910,1155.9,754.1,Net Banking
+ORD100463,24-12-2023,CUST1106,Anjali Chatterjee,Female,55,Hyderabad,South,Office Supplies,Office Chair,1,4860,0,4860,3715.83,1144.17,Debit Card
+ORD100464,25-12-2023,CUST1315,Ritu Mehta,Female,35,Ahmedabad,West,Sports & Fitness,Cricket Bat,3,1560,0.1,4212,3502.43,709.57,Credit Card
+ORD100465,25-12-2023,CUST1058,Karan Agarwal,Male,38,Guwahati,East,Electronics,Bluetooth Speaker,1,1970,0.1,1773,1406.71,366.29,Credit Card
+ORD100466,25-12-2023,CUST1228,Rekha Chatterjee,Female,27,Kolkata,East,Electronics,Webcam,1,1860,0,1860,1237.15,622.85,UPI
+ORD100467,26-12-2023,CUST1232,Vijay Rao,Male,35,Chennai,South,Home & Kitchen,Non-stick Pan,1,890,0.05,845.5,641.74,203.76,UPI
+ORD100468,27-12-2023,CUST1321,Aarti Das,Female,41,Pune,West,Electronics,Earbuds,4,2660,0,10640,6914.28,3725.72,Credit Card
+ORD100469,27-12-2023,CUST1183,Arjun Kumar,Male,40,Hyderabad,South,Sports & Fitness,Yoga Mat,3,600,0,1800,1237.97,562.03,UPI
+ORD100470,28-12-2023,CUST1346,Vijay Shah,Male,19,Kolkata,East,Office Supplies,Desk Organizer,1,700,0.15,595,519.45,75.55,UPI
+ORD100471,28-12-2023,CUST1201,Vijay Nair,Male,41,Mumbai,West,Home & Kitchen,Blender,1,2190,0.1,1971,1492.26,478.74,Credit Card
+ORD100472,28-12-2023,CUST1085,Arjun Bose,Male,29,Pune,West,Office Supplies,Desk Organizer,1,690,0,690,449.41,240.59,UPI
+ORD100473,29-12-2023,CUST1106,Anjali Chatterjee,Female,55,Hyderabad,South,Home & Kitchen,Storage Containers Set,1,630,0.15,535.5,389.66,145.84,Net Banking
+ORD100474,30-12-2023,CUST1058,Karan Agarwal,Male,38,Guwahati,East,Electronics,USB-C Charger,1,850,0,850,623.36,226.64,Credit Card
+ORD100475,01-01-2024,CUST1128,Sanjay Chatterjee,Male,36,Lucknow,North,Electronics,Webcam,2,1890,0.05,3591,2407.26,1183.74,Cash on Delivery
+ORD100476,02-01-2024,CUST1102,Shweta Reddy,Female,31,Chennai,South,Beauty & Personal Care,Skincare Kit,3,1830,0,5490,4160.74,1329.26,Cash on Delivery
+ORD100477,03-01-2024,CUST1347,Shweta Bose,Female,19,Pune,West,Clothing,Winter Jacket,3,3140,0.1,8478,5894.22,2583.78,Debit Card
+ORD100478,04-01-2024,CUST1259,Anil Rao,Male,43,Hyderabad,South,Sports & Fitness,Cricket Bat,2,1460,0.2,2336,1801.35,534.65,UPI
+ORD100479,04-01-2024,CUST1126,Shalini Iyer,Female,24,Coimbatore,South,Beauty & Personal Care,Trimmer,3,1260,0.05,3591,2460.19,1130.81,Debit Card
+ORD100480,04-01-2024,CUST1088,Anita Joshi,Female,29,Chandigarh,North,Clothing,Women's Kurti,1,930,0.15,790.5,715.44,75.06,UPI
+ORD100481,04-01-2024,CUST1298,Deepak Agarwal,Male,43,Coimbatore,South,Office Supplies,Notebook Pack,3,211,0,633,474.25,158.75,Debit Card
+ORD100482,04-01-2024,CUST1049,Shalini Rao,Female,18,Patna,East,Clothing,Denim Jeans,3,1500,0.15,3825,2864.81,960.19,Debit Card
+ORD100483,04-01-2024,CUST1051,Nisha Agarwal,Female,30,Bhubaneswar,East,Beauty & Personal Care,Face Wash,4,255,0,1020,632.06,387.94,Net Banking
+ORD100484,05-01-2024,CUST1081,Anita Gupta,Female,38,Patna,East,Beauty & Personal Care,Perfume,2,1710,0.2,2736,2576.14,159.86,Credit Card
+ORD100485,05-01-2024,CUST1201,Vijay Nair,Male,41,Mumbai,West,Home & Kitchen,LED Table Lamp,1,730,0.05,693.5,507.3,186.2,Credit Card
+ORD100486,05-01-2024,CUST1189,Karan Nair,Male,18,Jaipur,North,Electronics,USB-C Charger,2,850,0.1,1530,1161.29,368.71,UPI
+ORD100487,05-01-2024,CUST1029,Preeti Sharma,Female,31,Delhi,North,Electronics,Webcam,2,1850,0,3700,2561.23,1138.77,Credit Card
+ORD100488,07-01-2024,CUST1309,Kunal Iyer,Male,32,Mumbai,West,Office Supplies,Desk Organizer,2,730,0.1,1314,1073.56,240.44,Cash on Delivery
+ORD100489,08-01-2024,CUST1287,Nikhil Pillai,Male,41,Bengaluru,South,Electronics,Webcam,1,1780,0.1,1602,1085.41,516.59,Cash on Delivery
+ORD100490,08-01-2024,CUST1073,Sandeep Reddy,Male,52,Chennai,South,Beauty & Personal Care,Skincare Kit,5,1850,0.05,8787.5,6435.57,2351.93,Debit Card
+ORD100491,10-01-2024,CUST1201,Vijay Nair,Male,41,Mumbai,West,Clothing,Denim Jeans,1,1460,0,1460,1000.06,459.94,UPI
+ORD100492,14-01-2024,CUST1309,Kunal Iyer,Male,32,Mumbai,West,Electronics,Smartwatch,2,3690,0.15,6273,5266.83,1006.17,UPI
+ORD100493,16-01-2024,CUST1267,Pooja Kumar,Female,19,Pune,West,Home & Kitchen,Water Bottle,2,309,0,618,428.47,189.53,Debit Card
+ORD100494,17-01-2024,CUST1224,Neha Malhotra,Female,29,Guwahati,East,Home & Kitchen,Cushion Cover Set,1,382,0,382,273.84,108.16,Credit Card
+ORD100495,18-01-2024,CUST1244,Nikhil Iyer,Male,21,Bhubaneswar,East,Clothing,Men's T-Shirt,1,519,0.05,493.05,313.97,179.08,UPI
+ORD100496,18-01-2024,CUST1257,Kavita Reddy,Female,27,Lucknow,North,Beauty & Personal Care,Trimmer,2,1390,0.05,2641,1684.34,956.66,UPI
+ORD100497,18-01-2024,CUST1324,Anil Das,Male,23,Coimbatore,South,Sports & Fitness,Resistance Bands,1,495,0.05,470.25,321.09,149.16,UPI
+ORD100498,20-01-2024,CUST1063,Amit Kapoor,Male,21,Pune,West,Clothing,Sports Shoes,1,2160,0,2160,1429.14,730.86,Net Banking
+ORD100499,20-01-2024,CUST1165,Gaurav Rao,Male,39,Bengaluru,South,Home & Kitchen,Cushion Cover Set,1,389,0,389,246.2,142.8,UPI
+ORD100500,20-01-2024,CUST1230,Pooja Malhotra,Female,26,Delhi,North,Home & Kitchen,Storage Containers Set,2,640,0,1280,924.72,355.28,UPI
+ORD100501,20-01-2024,CUST1211,Nisha Verma,Female,47,Chandigarh,North,Home & Kitchen,LED Table Lamp,5,790,0,3950,2742.09,1207.91,Debit Card
+ORD100502,21-01-2024,CUST1106,Anjali Chatterjee,Female,55,Hyderabad,South,Home & Kitchen,Water Bottle,1,306,0,306,235.84,70.16,UPI
+ORD100503,22-01-2024,CUST1274,Pooja Joshi,Female,24,Kochi,South,Office Supplies,Ballpoint Pen Set,2,156,0.2,249.6,206.4,43.2,Credit Card
+ORD100504,25-01-2024,CUST1268,Vikram Rao,Male,30,Delhi,North,Home & Kitchen,Cushion Cover Set,1,414,0,414,315.19,98.81,Net Banking
+ORD100505,26-01-2024,CUST1135,Shalini Iyer,Female,52,Patna,East,Electronics,Power Bank,1,1190,0.1,1071,890.92,180.08,Credit Card
+ORD100506,26-01-2024,CUST1271,Gaurav Singh,Male,19,Guwahati,East,Clothing,Formal Shirt,5,1140,0.1,5130,3498.98,1631.02,Net Banking
+ORD100507,27-01-2024,CUST1221,Divya Shah,Female,18,Lucknow,North,Beauty & Personal Care,Trimmer,1,1250,0.05,1187.5,915.52,271.98,UPI
+ORD100508,27-01-2024,CUST1092,Shalini Iyer,Female,27,Jaipur,North,Beauty & Personal Care,Trimmer,2,1390,0.1,2502,1924.55,577.45,Debit Card
+ORD100509,28-01-2024,CUST1071,Kiran Mehta,Female,51,Ahmedabad,West,Clothing,Women's Kurti,1,960,0.1,864,627.38,236.62,Credit Card
+ORD100510,29-01-2024,CUST1307,Preeti Joshi,Female,28,Delhi,North,Home & Kitchen,Storage Containers Set,1,590,0.05,560.5,359.56,200.94,UPI
+ORD100511,01-02-2024,CUST1265,Priya Shah,Female,21,Coimbatore,South,Home & Kitchen,Water Bottle,1,306,0.05,290.7,223.89,66.81,Credit Card
+ORD100512,01-02-2024,CUST1147,Ashok Singh,Male,20,Chandigarh,North,Office Supplies,Notebook Pack,2,209,0,418,278.77,139.23,Cash on Delivery
+ORD100513,03-02-2024,CUST1192,Sanjay Das,Male,37,Hyderabad,South,Home & Kitchen,Blender,2,2180,0.05,4142,3089.35,1052.65,UPI
+ORD100514,04-02-2024,CUST1042,Swati Malhotra,Female,33,Bhubaneswar,East,Electronics,Smartwatch,1,3610,0.05,3429.5,2631.51,797.99,Credit Card
+ORD100515,05-02-2024,CUST1015,Manoj Joshi,Male,28,Chandigarh,North,Clothing,Winter Jacket,1,3150,0.05,2992.5,2317.67,674.83,Credit Card
+ORD100516,06-02-2024,CUST1025,Arjun Pillai,Male,36,Guwahati,East,Electronics,Wireless Mouse,1,580,0.1,522,429.41,92.59,Credit Card
+ORD100517,07-02-2024,CUST1121,Neha Malhotra,Female,24,Coimbatore,South,Clothing,Denim Jeans,1,1430,0.1,1287,1113.29,173.71,Cash on Delivery
+ORD100518,07-02-2024,CUST1054,Sandeep Malhotra,Male,46,Lucknow,North,Electronics,USB-C Charger,4,800,0.05,3040,2475.31,564.69,Credit Card
+ORD100519,07-02-2024,CUST1284,Karan Iyer,Male,58,Pune,West,Sports & Fitness,Dumbbell Set,3,1710,0.15,4360.5,3174.45,1186.05,Credit Card
+ORD100520,07-02-2024,CUST1011,Sandeep Das,Male,29,Kochi,South,Electronics,Laptop Stand,1,1330,0,1330,825.91,504.09,Debit Card
+ORD100521,08-02-2024,CUST1297,Kiran Chatterjee,Female,38,Patna,East,Electronics,Smartwatch,2,3460,0.1,6228,5239.81,988.19,UPI
+ORD100522,08-02-2024,CUST1072,Nikhil Shah,Male,34,Delhi,North,Electronics,Wireless Mouse,1,620,0,620,474.48,145.52,UPI
+ORD100523,08-02-2024,CUST1311,Priya Patel,Female,47,Lucknow,North,Office Supplies,Office Chair,1,4990,0,4990,3312.77,1677.23,UPI
+ORD100524,08-02-2024,CUST1294,Aarti Shah,Female,38,Patna,East,Home & Kitchen,Blender,1,2260,0,2260,1510.48,749.52,UPI
+ORD100525,09-02-2024,CUST1044,Priya Kapoor,Female,18,Bengaluru,South,Sports & Fitness,Cricket Bat,2,1540,0,3080,2052.27,1027.73,Debit Card
+ORD100526,10-02-2024,CUST1236,Vikram Nair,Male,18,Ahmedabad,West,Office Supplies,Desk Organizer,1,750,0.05,712.5,541.75,170.75,UPI
+ORD100527,10-02-2024,CUST1075,Ritu Patel,Female,44,Bhubaneswar,East,Electronics,USB-C Charger,2,810,0.15,1377,1144.93,232.07,Cash on Delivery
+ORD100528,11-02-2024,CUST1317,Anil Malhotra,Male,31,Patna,East,Home & Kitchen,Storage Containers Set,3,620,0.1,1674,1129.26,544.74,Debit Card
+ORD100529,12-02-2024,CUST1066,Vijay Shah,Male,34,Ahmedabad,West,Home & Kitchen,Non-stick Pan,3,900,0.05,2565,2016.87,548.13,Credit Card
+ORD100530,14-02-2024,CUST1127,Preeti Gupta,Female,28,Lucknow,North,Electronics,Laptop Stand,2,1250,0.2,2000,1518.03,481.97,Credit Card
+ORD100531,15-02-2024,CUST1214,Kiran Rao,Female,31,Delhi,North,Office Supplies,Desk Organizer,1,690,0.1,621,439.62,181.38,Debit Card
+ORD100532,15-02-2024,CUST1062,Neha Reddy,Female,22,Hyderabad,South,Electronics,USB-C Charger,2,820,0.05,1558,1162.15,395.85,Credit Card
+ORD100533,15-02-2024,CUST1311,Priya Patel,Female,47,Lucknow,North,Electronics,Power Bank,1,1180,0,1180,760.58,419.42,Cash on Delivery
+ORD100534,17-02-2024,CUST1220,Nikhil Bose,Male,60,Lucknow,North,Electronics,Laptop Stand,2,1330,0,2660,1913.7,746.3,UPI
+ORD100535,17-02-2024,CUST1292,Arjun Iyer,Male,28,Coimbatore,South,Home & Kitchen,Non-stick Pan,1,870,0,870,595.41,274.59,Credit Card
+ORD100536,18-02-2024,CUST1045,Rahul Gupta,Male,27,Pune,West,Home & Kitchen,Cushion Cover Set,1,392,0.05,372.4,303.6,68.8,Cash on Delivery
+ORD100537,19-02-2024,CUST1254,Suresh Verma,Male,18,Hyderabad,South,Sports & Fitness,Resistance Bands,1,482,0.1,433.8,295.36,138.44,Cash on Delivery
+ORD100538,20-02-2024,CUST1028,Sunita Shah,Female,28,Bhubaneswar,East,Electronics,Smartwatch,1,3740,0.1,3366,2278.9,1087.1,UPI
+ORD100539,23-02-2024,CUST1195,Anil Kumar,Male,39,Ahmedabad,West,Beauty & Personal Care,Perfume,3,1650,0,4950,3754.86,1195.14,UPI
+ORD100540,23-02-2024,CUST1035,Rekha Sharma,Female,21,Delhi,North,Sports & Fitness,Cricket Bat,1,1540,0.2,1232,988.22,243.78,Credit Card
+ORD100541,23-02-2024,CUST1224,Neha Malhotra,Female,29,Guwahati,East,Beauty & Personal Care,Face Wash,1,238,0.2,190.4,184.15,6.25,Net Banking
+ORD100542,24-02-2024,CUST1054,Sandeep Malhotra,Male,46,Lucknow,North,Electronics,Smartwatch,1,3710,0.1,3339,2821.59,517.41,UPI
+ORD100543,26-02-2024,CUST1286,Ashok Malhotra,Male,33,Kochi,South,Home & Kitchen,Storage Containers Set,3,570,0.05,1624.5,1192.75,431.75,Debit Card
+ORD100544,26-02-2024,CUST1118,Rahul Singh,Male,47,Patna,East,Beauty & Personal Care,Skincare Kit,4,1880,0.15,6392,4952.31,1439.69,Debit Card
+ORD100545,28-02-2024,CUST1256,Vijay Das,Male,48,Coimbatore,South,Electronics,Power Bank,3,1210,0.15,3085.5,2738.33,347.17,UPI
+ORD100546,28-02-2024,CUST1341,Anjali Kumar,Female,37,Bhubaneswar,East,Electronics,Earbuds,3,2490,0.05,7096.5,5798.5,1298,Net Banking
+ORD100547,28-02-2024,CUST1141,Divya Malhotra,Female,49,Coimbatore,South,Sports & Fitness,Cricket Bat,1,1500,0.05,1425,968.34,456.66,Net Banking
+ORD100548,01-03-2024,CUST1239,Anita Das,Female,44,Kochi,South,Beauty & Personal Care,Face Wash,2,239,0,478,357.56,120.44,Debit Card
+ORD100549,02-03-2024,CUST1295,Suresh Bose,Male,27,Chandigarh,North,Electronics,USB-C Charger,2,830,0.1,1494,1158.17,335.83,Net Banking
+ORD100550,02-03-2024,CUST1008,Rajesh Singh,Male,29,Kochi,South,Clothing,Sports Shoes,1,2100,0,2100,1513.98,586.02,Credit Card
+ORD100551,02-03-2024,CUST1237,Pooja Singh,Female,37,Bhubaneswar,East,Sports & Fitness,Football,2,740,0,1480,964.47,515.53,UPI
+ORD100552,04-03-2024,CUST1059,Divya Chatterjee,Female,45,Pune,West,Electronics,Smartwatch,1,3510,0,3510,2536.33,973.67,UPI
+ORD100553,05-03-2024,CUST1245,Priya Malhotra,Female,31,Hyderabad,South,Electronics,Laptop Stand,1,1270,0,1270,767.99,502.01,Debit Card
+ORD100554,08-03-2024,CUST1203,Aarti Malhotra,Female,46,Chennai,South,Beauty & Personal Care,Perfume,2,1710,0.1,3078,2300.22,777.78,UPI
+ORD100555,08-03-2024,CUST1341,Anjali Kumar,Female,37,Bhubaneswar,East,Office Supplies,Whiteboard,1,1240,0,1240,748.31,491.69,Debit Card
+ORD100556,08-03-2024,CUST1199,Sneha Shah,Female,22,Pune,West,Beauty & Personal Care,Shampoo,2,343,0,686,423.32,262.68,Debit Card
+ORD100557,12-03-2024,CUST1338,Arjun Iyer,Male,39,Chandigarh,North,Clothing,Formal Shirt,1,1130,0,1130,709.09,420.91,UPI
+ORD100558,13-03-2024,CUST1089,Suresh Joshi,Male,40,Patna,East,Home & Kitchen,Water Bottle,5,293,0.2,1172,889.4,282.6,Cash on Delivery
+ORD100559,13-03-2024,CUST1165,Gaurav Rao,Male,39,Bengaluru,South,Clothing,Formal Shirt,1,1080,0.15,918,828.87,89.13,Net Banking
+ORD100560,13-03-2024,CUST1285,Gaurav Pillai,Male,18,Delhi,North,Sports & Fitness,Dumbbell Set,2,1900,0.15,3230,2873.23,356.77,UPI
+ORD100561,15-03-2024,CUST1183,Arjun Kumar,Male,40,Hyderabad,South,Beauty & Personal Care,Skincare Kit,4,2050,0.05,7790,6162.84,1627.16,Debit Card
+ORD100562,15-03-2024,CUST1202,Shweta Verma,Female,46,Jaipur,North,Electronics,USB-C Charger,1,760,0.05,722,510.56,211.44,UPI
+ORD100563,15-03-2024,CUST1066,Vijay Shah,Male,34,Ahmedabad,West,Home & Kitchen,Water Bottle,1,298,0.2,238.4,203.15,35.25,UPI
+ORD100564,16-03-2024,CUST1194,Gaurav Singh,Male,36,Bengaluru,South,Beauty & Personal Care,Perfume,3,1590,0.05,4531.5,3075.55,1455.95,UPI
+ORD100565,16-03-2024,CUST1166,Rekha Malhotra,Female,44,Mumbai,West,Beauty & Personal Care,Trimmer,2,1300,0,2600,1827.17,772.83,Net Banking
+ORD100566,18-03-2024,CUST1049,Shalini Rao,Female,18,Patna,East,Sports & Fitness,Resistance Bands,1,536,0,536,325.85,210.15,Cash on Delivery
+ORD100567,18-03-2024,CUST1207,Nisha Rao,Female,40,Hyderabad,South,Home & Kitchen,Blender,3,2200,0.05,6270,4529.27,1740.73,UPI
+ORD100568,19-03-2024,CUST1002,Anita Sharma,Female,42,Ahmedabad,West,Home & Kitchen,Non-stick Pan,2,970,0,1940,1200.79,739.21,UPI
+ORD100569,20-03-2024,CUST1280,Neha Shah,Female,36,Mumbai,West,Clothing,Men's T-Shirt,1,524,0.1,471.6,367.76,103.84,Debit Card
+ORD100570,20-03-2024,CUST1233,Bhavna Chatterjee,Female,27,Ahmedabad,West,Office Supplies,Whiteboard,3,1340,0.2,3216,2620.69,595.31,UPI
+ORD100571,21-03-2024,CUST1106,Anjali Chatterjee,Female,55,Hyderabad,South,Beauty & Personal Care,Skincare Kit,5,1840,0,9200,6312.38,2887.62,UPI
+ORD100572,23-03-2024,CUST1335,Deepak Patel,Male,33,Ahmedabad,West,Clothing,Men's T-Shirt,1,488,0,488,371.02,116.98,Net Banking
+ORD100573,23-03-2024,CUST1139,Gaurav Kumar,Male,21,Bhubaneswar,East,Clothing,Winter Jacket,3,3050,0.05,8692.5,6413.86,2278.64,Credit Card
+ORD100574,23-03-2024,CUST1040,Aarti Shah,Female,43,Patna,East,Home & Kitchen,Storage Containers Set,1,640,0.2,512,422.81,89.19,Credit Card
+ORD100575,24-03-2024,CUST1004,Sandeep Agarwal,Male,32,Bengaluru,South,Beauty & Personal Care,Shampoo,4,334,0.05,1269.2,924.35,344.85,Debit Card
+ORD100576,24-03-2024,CUST1258,Aarti Pillai,Female,39,Chennai,South,Office Supplies,Notebook Pack,2,192,0,384,262.79,121.21,Debit Card
+ORD100577,25-03-2024,CUST1029,Preeti Sharma,Female,31,Delhi,North,Sports & Fitness,Dumbbell Set,1,1870,0.2,1496,1404.24,91.76,UPI
+ORD100578,26-03-2024,CUST1264,Swati Singh,Female,32,Bengaluru,South,Beauty & Personal Care,Face Wash,1,268,0.15,227.8,205.87,21.93,Credit Card
+ORD100579,28-03-2024,CUST1148,Meena Joshi,Female,40,Jaipur,North,Electronics,Bluetooth Speaker,4,1930,0.15,6562,5462.17,1099.83,Debit Card
+ORD100580,28-03-2024,CUST1086,Shweta Bose,Female,45,Lucknow,North,Sports & Fitness,Football,1,730,0,730,564.59,165.41,Net Banking
+ORD100581,28-03-2024,CUST1177,Anil Verma,Male,50,Pune,West,Home & Kitchen,Blender,2,2150,0,4300,3092.36,1207.64,Net Banking
+ORD100582,28-03-2024,CUST1121,Neha Malhotra,Female,24,Coimbatore,South,Electronics,Webcam,2,1860,0,3720,2388.56,1331.44,UPI
+ORD100583,29-03-2024,CUST1050,Suresh Singh,Male,38,Patna,East,Sports & Fitness,Dumbbell Set,5,1850,0.15,7862.5,6418.21,1444.29,Credit Card
+ORD100584,29-03-2024,CUST1321,Aarti Das,Female,41,Pune,West,Office Supplies,Office Chair,2,4950,0.05,9405,6128.29,3276.71,UPI
+ORD100585,29-03-2024,CUST1006,Gaurav Mehta,Male,52,Chennai,South,Office Supplies,Ballpoint Pen Set,1,158,0.15,134.3,117.07,17.23,UPI
+ORD100586,29-03-2024,CUST1062,Neha Reddy,Female,22,Hyderabad,South,Sports & Fitness,Dumbbell Set,5,1760,0.2,7040,6308.82,731.18,Debit Card
+ORD100587,30-03-2024,CUST1210,Rajesh Pillai,Male,41,Mumbai,West,Clothing,Sports Shoes,1,2370,0.05,2251.5,1584.49,667.01,Debit Card
+ORD100588,31-03-2024,CUST1184,Sanjay Singh,Male,32,Patna,East,Electronics,Wireless Mouse,2,640,0.05,1216,935.1,280.9,Cash on Delivery
+ORD100589,31-03-2024,CUST1303,Gaurav Joshi,Male,41,Patna,East,Home & Kitchen,Storage Containers Set,3,620,0,1860,1282.77,577.23,UPI
+ORD100590,01-04-2024,CUST1265,Priya Shah,Female,21,Coimbatore,South,Home & Kitchen,Water Bottle,2,292,0.05,554.8,418.86,135.94,UPI
+ORD100591,02-04-2024,CUST1203,Aarti Malhotra,Female,46,Chennai,South,Office Supplies,Notebook Pack,1,189,0,189,138.86,50.14,UPI
+ORD100592,02-04-2024,CUST1181,Anil Rao,Male,25,Delhi,North,Clothing,Winter Jacket,1,3070,0,3070,2035.7,1034.3,UPI
+ORD100593,04-04-2024,CUST1271,Gaurav Singh,Male,19,Guwahati,East,Beauty & Personal Care,Face Wash,2,241,0,482,295.37,186.63,Debit Card
+ORD100594,06-04-2024,CUST1185,Ravi Chatterjee,Male,42,Bhubaneswar,East,Home & Kitchen,Non-stick Pan,5,860,0.05,4085,3040.83,1044.17,Debit Card
+ORD100595,06-04-2024,CUST1212,Bhavna Rao,Female,45,Bhubaneswar,East,Electronics,Bluetooth Speaker,2,2060,0,4120,2595.81,1524.19,Net Banking
+ORD100596,07-04-2024,CUST1328,Priya Malhotra,Female,41,Ahmedabad,West,Beauty & Personal Care,Face Wash,1,249,0,249,186.48,62.52,UPI
+ORD100597,08-04-2024,CUST1307,Preeti Joshi,Female,28,Delhi,North,Clothing,Sports Shoes,1,2100,0.1,1890,1283.7,606.3,Debit Card
+ORD100598,08-04-2024,CUST1325,Rahul Rao,Male,21,Patna,East,Beauty & Personal Care,Shampoo,2,363,0.05,689.7,554.69,135.01,UPI
+ORD100599,08-04-2024,CUST1151,Divya Gupta,Female,38,Bengaluru,South,Electronics,Wireless Mouse,3,630,0.05,1795.5,1466.04,329.46,Debit Card
+ORD100600,08-04-2024,CUST1281,Neha Kumar,Female,42,Chennai,South,Sports & Fitness,Resistance Bands,1,528,0.2,422.4,408.98,13.42,Debit Card
+ORD100601,09-04-2024,CUST1230,Pooja Malhotra,Female,26,Delhi,North,Clothing,Denim Jeans,4,1590,0,6360,4257.43,2102.57,UPI
+ORD100602,09-04-2024,CUST1046,Vijay Verma,Male,29,Coimbatore,South,Beauty & Personal Care,Trimmer,1,1270,0.05,1206.5,827.66,378.84,Net Banking
+ORD100603,11-04-2024,CUST1304,Vikram Shah,Male,34,Hyderabad,South,Home & Kitchen,Cushion Cover Set,4,393,0.05,1493.4,1098.79,394.61,Credit Card
+ORD100604,13-04-2024,CUST1200,Anjali Shah,Female,38,Chennai,South,Home & Kitchen,Storage Containers Set,1,600,0.05,570,387.73,182.27,Debit Card
+ORD100605,13-04-2024,CUST1175,Rohit Das,Male,44,Bengaluru,South,Clothing,Winter Jacket,2,2990,0.1,5382,4329,1053,Cash on Delivery
+ORD100606,14-04-2024,CUST1247,Nisha Iyer,Female,27,Bhubaneswar,East,Beauty & Personal Care,Perfume,1,1530,0.1,1377,1160.82,216.18,Cash on Delivery
+ORD100607,14-04-2024,CUST1212,Bhavna Rao,Female,45,Bhubaneswar,East,Office Supplies,Whiteboard,3,1300,0.05,3705,2570.42,1134.58,Debit Card
+ORD100608,15-04-2024,CUST1329,Shweta Agarwal,Female,41,Kolkata,East,Electronics,Power Bank,2,1150,0,2300,1522.92,777.08,Net Banking
+ORD100609,15-04-2024,CUST1349,Aarti Kumar,Female,32,Pune,West,Beauty & Personal Care,Face Wash,1,238,0,238,158.23,79.77,Credit Card
+ORD100610,17-04-2024,CUST1188,Rohit Reddy,Male,25,Chennai,South,Office Supplies,Whiteboard,5,1370,0.2,5480,4794.85,685.15,Cash on Delivery
+ORD100611,18-04-2024,CUST1068,Kunal Gupta,Male,38,Patna,East,Office Supplies,Desk Organizer,1,700,0,700,516.46,183.54,Cash on Delivery
+ORD100612,18-04-2024,CUST1235,Preeti Verma,Female,41,Ahmedabad,West,Beauty & Personal Care,Skincare Kit,2,2030,0.15,3451,2842.46,608.54,Cash on Delivery
+ORD100613,19-04-2024,CUST1183,Arjun Kumar,Male,40,Hyderabad,South,Sports & Fitness,Dumbbell Set,1,1890,0.1,1701,1202.88,498.12,UPI
+ORD100614,21-04-2024,CUST1343,Shweta Verma,Female,29,Kochi,South,Beauty & Personal Care,Face Wash,2,268,0.05,509.2,329.81,179.39,Cash on Delivery
+ORD100615,21-04-2024,CUST1189,Karan Nair,Male,18,Jaipur,North,Electronics,Wireless Mouse,1,580,0,580,384.33,195.67,Debit Card
+ORD100616,22-04-2024,CUST1082,Anita Sharma,Female,51,Coimbatore,South,Home & Kitchen,Storage Containers Set,1,640,0.05,608,409.96,198.04,Credit Card
+ORD100617,23-04-2024,CUST1182,Rajesh Rao,Male,23,Ahmedabad,West,Beauty & Personal Care,Perfume,1,1560,0.1,1404,1043.49,360.51,Net Banking
+ORD100618,25-04-2024,CUST1313,Ravi Reddy,Male,43,Kolkata,East,Electronics,Smartwatch,1,3430,0.15,2915.5,2631.71,283.79,UPI
+ORD100619,25-04-2024,CUST1000,Rahul Iyer,Male,40,Bengaluru,South,Home & Kitchen,Blender,2,2110,0.05,4009,2860.41,1148.59,Debit Card
+ORD100620,26-04-2024,CUST1028,Sunita Shah,Female,28,Bhubaneswar,East,Electronics,Power Bank,1,1250,0,1250,884.29,365.71,Credit Card
+ORD100621,26-04-2024,CUST1184,Sanjay Singh,Male,32,Patna,East,Electronics,Wireless Mouse,1,580,0,580,396.11,183.89,Debit Card
+ORD100622,27-04-2024,CUST1145,Rahul Nair,Male,43,Chandigarh,North,Sports & Fitness,Dumbbell Set,1,1850,0.1,1665,1244.71,420.29,UPI
+ORD100623,27-04-2024,CUST1336,Ravi Pillai,Male,25,Chandigarh,North,Beauty & Personal Care,Shampoo,1,364,0.15,309.4,222.75,86.65,Debit Card
+ORD100624,27-04-2024,CUST1132,Ajay Chatterjee,Male,23,Guwahati,East,Electronics,Laptop Stand,1,1320,0.15,1122,942.03,179.97,Debit Card
+ORD100625,27-04-2024,CUST1147,Ashok Singh,Male,20,Chandigarh,North,Electronics,Bluetooth Speaker,1,2140,0.05,2033,1641.71,391.29,Debit Card
+ORD100626,28-04-2024,CUST1022,Neha Iyer,Female,35,Lucknow,North,Beauty & Personal Care,Face Wash,5,239,0,1195,882.46,312.54,Debit Card
+ORD100627,29-04-2024,CUST1076,Bhavna Pillai,Female,35,Mumbai,West,Clothing,Women's Kurti,1,960,0.15,816,598.27,217.73,Net Banking
+ORD100628,30-04-2024,CUST1213,Rohit Iyer,Male,42,Lucknow,North,Clothing,Men's T-Shirt,1,506,0.2,404.8,383.78,21.02,UPI
+ORD100629,01-05-2024,CUST1260,Pooja Malhotra,Female,24,Ahmedabad,West,Home & Kitchen,Water Bottle,1,285,0.1,256.5,204.8,51.7,UPI
+ORD100630,02-05-2024,CUST1016,Sneha Shah,Female,23,Jaipur,North,Electronics,Power Bank,1,1230,0,1230,852.62,377.38,Debit Card
+ORD100631,02-05-2024,CUST1026,Amit Singh,Male,22,Lucknow,North,Electronics,Power Bank,1,1170,0,1170,785.78,384.22,UPI
+ORD100632,03-05-2024,CUST1273,Nikhil Malhotra,Male,35,Bengaluru,South,Electronics,Webcam,1,1720,0,1720,1304.2,415.8,Cash on Delivery
+ORD100633,04-05-2024,CUST1175,Rohit Das,Male,44,Bengaluru,South,Beauty & Personal Care,Trimmer,3,1340,0,4020,3035.75,984.25,UPI
+ORD100634,05-05-2024,CUST1089,Suresh Joshi,Male,40,Patna,East,Electronics,Earbuds,2,2530,0.05,4807,3425.35,1381.65,Cash on Delivery
+ORD100635,08-05-2024,CUST1264,Swati Singh,Female,32,Bengaluru,South,Clothing,Denim Jeans,1,1500,0.15,1275,903.08,371.92,UPI
+ORD100636,08-05-2024,CUST1348,Shweta Reddy,Female,27,Coimbatore,South,Clothing,Winter Jacket,2,3170,0,6340,4134.02,2205.98,Net Banking
+ORD100637,08-05-2024,CUST1117,Rekha Chatterjee,Female,22,Bengaluru,South,Clothing,Denim Jeans,3,1460,0.05,4161,2940.64,1220.36,UPI
+ORD100638,08-05-2024,CUST1290,Pooja Rao,Female,32,Bhubaneswar,East,Home & Kitchen,Storage Containers Set,2,600,0,1200,922.95,277.05,Credit Card
+ORD100639,09-05-2024,CUST1291,Vijay Mehta,Male,29,Lucknow,North,Sports & Fitness,Yoga Mat,1,590,0,590,450.48,139.52,UPI
+ORD100640,10-05-2024,CUST1337,Swati Kumar,Female,31,Bengaluru,South,Beauty & Personal Care,Shampoo,2,345,0.1,621,426.73,194.27,UPI
+ORD100641,11-05-2024,CUST1009,Bhavna Iyer,Female,40,Pune,West,Sports & Fitness,Resistance Bands,4,493,0,1972,1335.71,636.29,UPI
+ORD100642,11-05-2024,CUST1230,Pooja Malhotra,Female,26,Delhi,North,Home & Kitchen,Storage Containers Set,2,640,0.15,1088,971.72,116.28,Cash on Delivery
+ORD100643,12-05-2024,CUST1176,Kavita Das,Female,35,Mumbai,West,Beauty & Personal Care,Perfume,1,1700,0.1,1530,1185.45,344.55,Debit Card
+ORD100644,13-05-2024,CUST1322,Rajesh Shah,Male,25,Pune,West,Home & Kitchen,Water Bottle,3,317,0.15,808.35,653.64,154.71,Debit Card
+ORD100645,13-05-2024,CUST1080,Divya Iyer,Female,32,Guwahati,East,Office Supplies,Office Chair,1,5090,0.15,4326.5,3716.24,610.26,Net Banking
+ORD100646,13-05-2024,CUST1305,Pooja Kapoor,Female,36,Chandigarh,North,Electronics,Power Bank,2,1170,0.1,2106,1449.02,656.98,UPI
+ORD100647,14-05-2024,CUST1313,Ravi Reddy,Male,43,Kolkata,East,Electronics,Smartwatch,3,3670,0.1,9909,8124.29,1784.71,UPI
+ORD100648,14-05-2024,CUST1066,Vijay Shah,Male,34,Ahmedabad,West,Beauty & Personal Care,Trimmer,1,1390,0,1390,838.79,551.21,UPI
+ORD100649,15-05-2024,CUST1226,Anjali Reddy,Female,35,Bengaluru,South,Electronics,USB-C Charger,1,840,0.05,798,615.52,182.48,UPI
+ORD100650,16-05-2024,CUST1100,Kunal Agarwal,Male,19,Kochi,South,Clothing,Denim Jeans,1,1460,0.1,1314,1112,202,UPI
+ORD100651,16-05-2024,CUST1104,Nisha Gupta,Female,33,Coimbatore,South,Electronics,Webcam,1,1860,0.05,1767,1300.36,466.64,Net Banking
+ORD100652,17-05-2024,CUST1228,Rekha Chatterjee,Female,27,Kolkata,East,Electronics,Laptop Stand,3,1290,0,3870,2796.73,1073.27,UPI
+ORD100653,19-05-2024,CUST1290,Pooja Rao,Female,32,Bhubaneswar,East,Home & Kitchen,Cushion Cover Set,1,381,0.15,323.85,238.15,85.7,Cash on Delivery
+ORD100654,19-05-2024,CUST1021,Divya Rao,Female,32,Kolkata,East,Beauty & Personal Care,Perfume,3,1670,0.05,4759.5,3151.52,1607.98,UPI
+ORD100655,19-05-2024,CUST1194,Gaurav Singh,Male,36,Bengaluru,South,Electronics,Laptop Stand,3,1280,0.05,3648,2659.84,988.16,Debit Card
+ORD100656,20-05-2024,CUST1318,Bhavna Malhotra,Female,38,Patna,East,Electronics,Earbuds,1,2410,0.15,2048.5,1726.15,322.35,UPI
+ORD100657,20-05-2024,CUST1255,Anita Kapoor,Female,29,Kochi,South,Home & Kitchen,Non-stick Pan,1,860,0,860,518.57,341.43,UPI
+ORD100658,20-05-2024,CUST1145,Rahul Nair,Male,43,Chandigarh,North,Clothing,Sports Shoes,1,2190,0.15,1861.5,1367.93,493.57,UPI
+ORD100659,23-05-2024,CUST1134,Preeti Bose,Female,24,Bengaluru,South,Office Supplies,Whiteboard,1,1250,0.2,1000,915.94,84.06,UPI
+ORD100660,23-05-2024,CUST1319,Divya Pillai,Female,33,Delhi,North,Clothing,Women's Kurti,1,900,0.1,810,549.18,260.82,UPI
+ORD100661,24-05-2024,CUST1183,Arjun Kumar,Male,40,Hyderabad,South,Clothing,Denim Jeans,1,1560,0,1560,1215.99,344.01,UPI
+ORD100662,24-05-2024,CUST1103,Gaurav Sharma,Male,26,Chandigarh,North,Electronics,Laptop Stand,1,1260,0.1,1134,959.66,174.34,Credit Card
+ORD100663,25-05-2024,CUST1235,Preeti Verma,Female,41,Ahmedabad,West,Clothing,Winter Jacket,1,3050,0.05,2897.5,2173.01,724.49,UPI
+ORD100664,25-05-2024,CUST1252,Ritu Nair,Female,58,Kochi,South,Electronics,Power Bank,2,1230,0.15,2091,1735.9,355.1,Debit Card
+ORD100665,25-05-2024,CUST1234,Preeti Chatterjee,Female,58,Coimbatore,South,Office Supplies,Whiteboard,2,1350,0.2,2160,1989.86,170.14,Credit Card
+ORD100666,26-05-2024,CUST1028,Sunita Shah,Female,28,Bhubaneswar,East,Home & Kitchen,Water Bottle,1,287,0,287,176.26,110.74,Credit Card
+ORD100667,26-05-2024,CUST1079,Ritu Shah,Female,18,Chandigarh,North,Clothing,Men's T-Shirt,1,506,0,506,355.75,150.25,Debit Card
+ORD100668,26-05-2024,CUST1024,Shweta Chatterjee,Female,29,Kochi,South,Electronics,Webcam,1,1730,0,1730,1085.3,644.7,Credit Card
+ORD100669,27-05-2024,CUST1191,Bhavna Rao,Female,44,Hyderabad,South,Clothing,Sports Shoes,2,2120,0.2,3392,2580.8,811.2,UPI
+ORD100670,27-05-2024,CUST1237,Pooja Singh,Female,37,Bhubaneswar,East,Beauty & Personal Care,Trimmer,3,1360,0,4080,3059.7,1020.3,Credit Card
+ORD100671,28-05-2024,CUST1301,Pooja Joshi,Female,28,Lucknow,North,Office Supplies,Desk Organizer,5,740,0.1,3330,2481.87,848.13,Credit Card
+ORD100672,29-05-2024,CUST1023,Sandeep Bose,Male,19,Chennai,South,Office Supplies,Notebook Pack,1,208,0.05,197.6,125.89,71.71,Debit Card
+ORD100673,01-06-2024,CUST1319,Divya Pillai,Female,33,Delhi,North,Electronics,Webcam,1,1800,0.05,1710,1372.38,337.62,Credit Card
+ORD100674,01-06-2024,CUST1118,Rahul Singh,Male,47,Patna,East,Electronics,Smartwatch,1,3380,0.2,2704,2403.17,300.83,Credit Card
+ORD100675,01-06-2024,CUST1069,Meena Reddy,Female,27,Coimbatore,South,Electronics,Power Bank,1,1170,0.1,1053,788.56,264.44,Cash on Delivery
+ORD100676,02-06-2024,CUST1144,Manoj Nair,Male,37,Ahmedabad,West,Electronics,Bluetooth Speaker,1,2070,0,2070,1611.84,458.16,Debit Card
+ORD100677,03-06-2024,CUST1163,Anjali Iyer,Female,25,Chennai,South,Electronics,Laptop Stand,1,1300,0.1,1170,875.64,294.36,UPI
+ORD100678,04-06-2024,CUST1144,Manoj Nair,Male,37,Ahmedabad,West,Electronics,Earbuds,3,2690,0.15,6859.5,5193.5,1666,UPI
+ORD100679,04-06-2024,CUST1046,Vijay Verma,Male,29,Coimbatore,South,Beauty & Personal Care,Skincare Kit,3,1840,0,5520,3805.52,1714.48,UPI
+ORD100680,05-06-2024,CUST1309,Kunal Iyer,Male,32,Mumbai,West,Sports & Fitness,Football,1,680,0.05,646,480.86,165.14,Credit Card
+ORD100681,06-06-2024,CUST1220,Nikhil Bose,Male,60,Lucknow,North,Electronics,Bluetooth Speaker,4,1910,0.1,6876,5514.34,1361.66,Debit Card
+ORD100682,07-06-2024,CUST1011,Sandeep Das,Male,29,Kochi,South,Beauty & Personal Care,Perfume,3,1560,0,4680,3029.76,1650.24,Cash on Delivery
+ORD100683,07-06-2024,CUST1294,Aarti Shah,Female,38,Patna,East,Beauty & Personal Care,Trimmer,1,1250,0,1250,950.44,299.56,Credit Card
+ORD100684,10-06-2024,CUST1122,Bhavna Pillai,Female,50,Patna,East,Beauty & Personal Care,Skincare Kit,1,1980,0.1,1782,1396.06,385.94,UPI
+ORD100685,11-06-2024,CUST1160,Shalini Malhotra,Female,24,Kolkata,East,Electronics,Smartwatch,1,3350,0.15,2847.5,2012.79,834.71,UPI
+ORD100686,12-06-2024,CUST1096,Rajesh Mehta,Male,38,Chennai,South,Clothing,Formal Shirt,4,1060,0.1,3816,3176.91,639.09,UPI
+ORD100687,14-06-2024,CUST1066,Vijay Shah,Male,34,Ahmedabad,West,Clothing,Men's T-Shirt,4,482,0.1,1735.2,1273.03,462.17,Net Banking
+ORD100688,15-06-2024,CUST1241,Shweta Patel,Female,33,Jaipur,North,Beauty & Personal Care,Face Wash,1,256,0.1,230.4,172.47,57.93,UPI
+ORD100689,15-06-2024,CUST1254,Suresh Verma,Male,18,Hyderabad,South,Office Supplies,Desk Organizer,2,670,0.05,1273,983.8,289.2,Cash on Delivery
+ORD100690,15-06-2024,CUST1019,Sanjay Verma,Male,19,Coimbatore,South,Electronics,Earbuds,1,2540,0.05,2413,1779.87,633.13,Net Banking
+ORD100691,16-06-2024,CUST1123,Kavita Rao,Female,19,Bhubaneswar,East,Office Supplies,Whiteboard,1,1260,0,1260,873.61,386.39,Net Banking
+ORD100692,16-06-2024,CUST1258,Aarti Pillai,Female,39,Chennai,South,Electronics,Smartwatch,2,3540,0.15,6018,5502.12,515.88,Credit Card
+ORD100693,17-06-2024,CUST1178,Neha Rao,Female,32,Delhi,North,Clothing,Formal Shirt,2,1090,0.15,1853,1607.12,245.88,Net Banking
+ORD100694,19-06-2024,CUST1165,Gaurav Rao,Male,39,Bengaluru,South,Clothing,Denim Jeans,1,1470,0,1470,976.02,493.98,Credit Card
+ORD100695,19-06-2024,CUST1301,Pooja Joshi,Female,28,Lucknow,North,Electronics,Wireless Mouse,1,620,0.1,558,408.28,149.72,Net Banking
+ORD100696,19-06-2024,CUST1193,Sneha Nair,Female,21,Chennai,South,Clothing,Men's T-Shirt,1,487,0.1,438.3,301.09,137.21,Credit Card
+ORD100697,20-06-2024,CUST1242,Vijay Shah,Male,40,Kolkata,East,Home & Kitchen,Non-stick Pan,2,920,0.15,1564,1295.7,268.3,Net Banking
+ORD100698,20-06-2024,CUST1292,Arjun Iyer,Male,28,Coimbatore,South,Clothing,Sports Shoes,1,2140,0,2140,1391.31,748.69,UPI
+ORD100699,20-06-2024,CUST1202,Shweta Verma,Female,46,Jaipur,North,Office Supplies,Ballpoint Pen Set,2,158,0.1,284.4,202.93,81.47,UPI
+ORD100700,20-06-2024,CUST1097,Anil Joshi,Male,37,Kolkata,East,Clothing,Formal Shirt,2,1090,0,2180,1340.02,839.98,UPI
+ORD100701,20-06-2024,CUST1159,Shalini Gupta,Female,42,Chennai,South,Office Supplies,Office Chair,1,4960,0.1,4464,3513.4,950.6,Credit Card
+ORD100702,21-06-2024,CUST1313,Ravi Reddy,Male,43,Kolkata,East,Sports & Fitness,Football,2,700,0.1,1260,857.67,402.33,UPI
+ORD100703,21-06-2024,CUST1335,Deepak Patel,Male,33,Ahmedabad,West,Clothing,Sports Shoes,1,2110,0.05,2004.5,1291.07,713.43,Net Banking
+ORD100704,22-06-2024,CUST1300,Vijay Gupta,Male,25,Ahmedabad,West,Office Supplies,Ballpoint Pen Set,2,145,0.05,275.5,224.74,50.76,Net Banking
+ORD100705,22-06-2024,CUST1143,Sneha Rao,Female,37,Mumbai,West,Clothing,Winter Jacket,1,2940,0,2940,1881.67,1058.33,Credit Card
+ORD100706,24-06-2024,CUST1305,Pooja Kapoor,Female,36,Chandigarh,North,Beauty & Personal Care,Face Wash,2,265,0.2,424,394.2,29.8,UPI
+ORD100707,24-06-2024,CUST1089,Suresh Joshi,Male,40,Patna,East,Electronics,USB-C Charger,2,840,0.05,1596,1297.68,298.32,UPI
+ORD100708,27-06-2024,CUST1300,Vijay Gupta,Male,25,Ahmedabad,West,Electronics,Wireless Mouse,3,580,0,1740,1232.91,507.09,UPI
+ORD100709,28-06-2024,CUST1320,Nisha Singh,Female,36,Hyderabad,South,Electronics,Laptop Stand,1,1400,0.1,1260,1043.28,216.72,Debit Card
+ORD100710,28-06-2024,CUST1243,Ashok Kapoor,Male,44,Lucknow,North,Sports & Fitness,Football,2,670,0,1340,1038.13,301.87,Credit Card
+ORD100711,28-06-2024,CUST1050,Suresh Singh,Male,38,Patna,East,Sports & Fitness,Cricket Bat,3,1510,0,4530,3317.26,1212.74,Net Banking
+ORD100712,29-06-2024,CUST1166,Rekha Malhotra,Female,44,Mumbai,West,Home & Kitchen,Non-stick Pan,3,940,0.05,2679,2062.67,616.33,Net Banking
+ORD100713,30-06-2024,CUST1281,Neha Kumar,Female,42,Chennai,South,Clothing,Denim Jeans,1,1610,0.05,1529.5,1133.89,395.61,UPI
+ORD100714,01-07-2024,CUST1097,Anil Joshi,Male,37,Kolkata,East,Clothing,Sports Shoes,1,2280,0.05,2166,1372.16,793.84,Debit Card
+ORD100715,01-07-2024,CUST1296,Kiran Nair,Female,44,Patna,East,Clothing,Men's T-Shirt,1,537,0.1,483.3,326.09,157.21,Cash on Delivery
+ORD100716,01-07-2024,CUST1229,Ashok Verma,Male,42,Lucknow,North,Sports & Fitness,Cricket Bat,1,1450,0,1450,1053.92,396.08,UPI
+ORD100717,02-07-2024,CUST1054,Sandeep Malhotra,Male,46,Lucknow,North,Home & Kitchen,Non-stick Pan,1,940,0.15,799,611.63,187.37,Net Banking
+ORD100718,02-07-2024,CUST1084,Preeti Sharma,Female,26,Delhi,North,Clothing,Denim Jeans,3,1490,0.05,4246.5,2686.21,1560.29,UPI
+ORD100719,04-07-2024,CUST1174,Ashok Iyer,Male,38,Hyderabad,South,Sports & Fitness,Football,1,750,0.1,675,505.31,169.69,Cash on Delivery
+ORD100720,04-07-2024,CUST1164,Ravi Reddy,Male,45,Ahmedabad,West,Home & Kitchen,Non-stick Pan,5,940,0.05,4465,3039.57,1425.43,Credit Card
+ORD100721,05-07-2024,CUST1335,Deepak Patel,Male,33,Ahmedabad,West,Electronics,Webcam,2,1850,0,3700,2829,871,Credit Card
+ORD100722,06-07-2024,CUST1108,Kunal Kapoor,Male,37,Hyderabad,South,Sports & Fitness,Football,1,700,0,700,509.79,190.21,Debit Card
+ORD100723,06-07-2024,CUST1339,Kunal Kumar,Male,28,Ahmedabad,West,Sports & Fitness,Yoga Mat,4,590,0,2360,1787.76,572.24,UPI
+ORD100724,06-07-2024,CUST1079,Ritu Shah,Female,18,Chandigarh,North,Electronics,Bluetooth Speaker,3,1980,0.1,5346,3737.87,1608.13,UPI
+ORD100725,07-07-2024,CUST1164,Ravi Reddy,Male,45,Ahmedabad,West,Clothing,Men's T-Shirt,1,503,0,503,378.18,124.82,Debit Card
+ORD100726,07-07-2024,CUST1290,Pooja Rao,Female,32,Bhubaneswar,East,Beauty & Personal Care,Trimmer,2,1310,0.05,2489,1917.02,571.98,UPI
+ORD100727,07-07-2024,CUST1105,Pooja Das,Female,39,Hyderabad,South,Sports & Fitness,Cricket Bat,1,1610,0.2,1288,1159.56,128.44,UPI
+ORD100728,08-07-2024,CUST1077,Pooja Kumar,Female,31,Chennai,South,Electronics,Power Bank,1,1280,0.1,1152,874.11,277.89,Credit Card
+ORD100729,08-07-2024,CUST1061,Kiran Das,Female,32,Patna,East,Sports & Fitness,Cricket Bat,1,1470,0,1470,882.53,587.47,UPI
+ORD100730,09-07-2024,CUST1071,Kiran Mehta,Female,51,Ahmedabad,West,Office Supplies,Office Chair,1,5170,0.15,4394.5,3542.37,852.13,Credit Card
+ORD100731,10-07-2024,CUST1102,Shweta Reddy,Female,31,Chennai,South,Office Supplies,Whiteboard,3,1240,0,3720,2578.91,1141.09,Debit Card
+ORD100732,10-07-2024,CUST1094,Rohit Malhotra,Male,30,Kochi,South,Home & Kitchen,Cushion Cover Set,1,427,0.05,405.65,324.62,81.03,Credit Card
+ORD100733,11-07-2024,CUST1001,Arjun Singh,Male,33,Ahmedabad,West,Office Supplies,Desk Organizer,3,700,0.1,1890,1318.17,571.83,UPI
+ORD100734,12-07-2024,CUST1316,Arjun Patel,Male,42,Pune,West,Home & Kitchen,LED Table Lamp,1,740,0,740,565.01,174.99,Cash on Delivery
+ORD100735,13-07-2024,CUST1115,Sanjay Rao,Male,38,Ahmedabad,West,Sports & Fitness,Resistance Bands,2,525,0.05,997.5,687.25,310.25,Net Banking
+ORD100736,13-07-2024,CUST1067,Rajesh Singh,Male,46,Bengaluru,South,Clothing,Winter Jacket,1,2990,0.15,2541.5,2188.83,352.67,UPI
+ORD100737,14-07-2024,CUST1040,Aarti Shah,Female,43,Patna,East,Home & Kitchen,Non-stick Pan,3,860,0.2,2064,1610.91,453.09,Debit Card
+ORD100738,14-07-2024,CUST1185,Ravi Chatterjee,Male,42,Bhubaneswar,East,Electronics,Bluetooth Speaker,1,2160,0.1,1944,1452.27,491.73,Credit Card
+ORD100739,16-07-2024,CUST1244,Nikhil Iyer,Male,21,Bhubaneswar,East,Electronics,Earbuds,2,2480,0.15,4216,3525.84,690.16,UPI
+ORD100740,16-07-2024,CUST1343,Shweta Verma,Female,29,Kochi,South,Beauty & Personal Care,Face Wash,3,253,0,759,503.63,255.37,Net Banking
+ORD100741,16-07-2024,CUST1065,Amit Pillai,Male,49,Ahmedabad,West,Beauty & Personal Care,Face Wash,1,249,0,249,172.08,76.92,Debit Card
+ORD100742,17-07-2024,CUST1082,Anita Sharma,Female,51,Coimbatore,South,Electronics,Power Bank,1,1280,0,1280,868.09,411.91,Net Banking
+ORD100743,17-07-2024,CUST1307,Preeti Joshi,Female,28,Delhi,North,Clothing,Denim Jeans,2,1520,0,3040,2126.42,913.58,Cash on Delivery
+ORD100744,17-07-2024,CUST1102,Shweta Reddy,Female,31,Chennai,South,Home & Kitchen,Cushion Cover Set,4,407,0,1628,1012.58,615.42,Credit Card
+ORD100745,17-07-2024,CUST1315,Ritu Mehta,Female,35,Ahmedabad,West,Electronics,Laptop Stand,1,1380,0.05,1311,974,337,UPI
+ORD100746,17-07-2024,CUST1015,Manoj Joshi,Male,28,Chandigarh,North,Sports & Fitness,Cricket Bat,1,1540,0.1,1386,949.78,436.22,UPI
+ORD100747,17-07-2024,CUST1241,Shweta Patel,Female,33,Jaipur,North,Electronics,Smartwatch,1,3650,0.05,3467.5,2502.77,964.73,Credit Card
+ORD100748,18-07-2024,CUST1247,Nisha Iyer,Female,27,Bhubaneswar,East,Office Supplies,Notebook Pack,1,207,0,207,142.52,64.48,Credit Card
+ORD100749,18-07-2024,CUST1184,Sanjay Singh,Male,32,Patna,East,Home & Kitchen,Storage Containers Set,3,580,0.1,1566,1207.82,358.18,UPI
+ORD100750,19-07-2024,CUST1309,Kunal Iyer,Male,32,Mumbai,West,Office Supplies,Office Chair,1,5240,0.1,4716,3167.19,1548.81,Cash on Delivery
+ORD100751,19-07-2024,CUST1084,Preeti Sharma,Female,26,Delhi,North,Sports & Fitness,Dumbbell Set,1,1760,0,1760,1079.19,680.81,UPI
+ORD100752,20-07-2024,CUST1238,Vikram Sharma,Male,27,Pune,West,Beauty & Personal Care,Perfume,1,1710,0.05,1624.5,1158.99,465.51,Debit Card
+ORD100753,22-07-2024,CUST1117,Rekha Chatterjee,Female,22,Bengaluru,South,Beauty & Personal Care,Perfume,1,1610,0.1,1449,986.01,462.99,Net Banking
+ORD100754,22-07-2024,CUST1331,Deepak Patel,Male,25,Bhubaneswar,East,Clothing,Men's T-Shirt,1,525,0.05,498.75,348.89,149.86,UPI
+ORD100755,24-07-2024,CUST1335,Deepak Patel,Male,33,Ahmedabad,West,Sports & Fitness,Dumbbell Set,2,1870,0,3740,2657.32,1082.68,Debit Card
+ORD100756,25-07-2024,CUST1291,Vijay Mehta,Male,29,Lucknow,North,Home & Kitchen,Blender,2,2300,0.05,4370,3454.05,915.95,UPI
+ORD100757,25-07-2024,CUST1346,Vijay Shah,Male,19,Kolkata,East,Office Supplies,Ballpoint Pen Set,1,143,0.05,135.85,93.4,42.45,Net Banking
+ORD100758,25-07-2024,CUST1323,Rohit Das,Male,58,Chandigarh,North,Office Supplies,Notebook Pack,3,196,0,588,454.75,133.25,Debit Card
+ORD100759,26-07-2024,CUST1282,Suresh Sharma,Male,52,Lucknow,North,Beauty & Personal Care,Trimmer,4,1310,0.05,4978,3936.1,1041.9,Credit Card
+ORD100760,26-07-2024,CUST1035,Rekha Sharma,Female,21,Delhi,North,Sports & Fitness,Football,1,720,0.1,648,487.42,160.58,Debit Card
+ORD100761,26-07-2024,CUST1067,Rajesh Singh,Male,46,Bengaluru,South,Home & Kitchen,LED Table Lamp,1,740,0,740,446.38,293.62,UPI
+ORD100762,30-07-2024,CUST1294,Aarti Shah,Female,38,Patna,East,Electronics,Webcam,1,1860,0,1860,1169.72,690.28,Cash on Delivery
+ORD100763,30-07-2024,CUST1328,Priya Malhotra,Female,41,Ahmedabad,West,Sports & Fitness,Dumbbell Set,1,1800,0,1800,1123.79,676.21,Credit Card
+ORD100764,31-07-2024,CUST1166,Rekha Malhotra,Female,44,Mumbai,West,Clothing,Formal Shirt,1,1070,0,1070,652.99,417.01,Debit Card
+ORD100765,31-07-2024,CUST1297,Kiran Chatterjee,Female,38,Patna,East,Electronics,Earbuds,3,2410,0,7230,4855.03,2374.97,Net Banking
+ORD100766,02-08-2024,CUST1071,Kiran Mehta,Female,51,Ahmedabad,West,Clothing,Women's Kurti,1,970,0,970,687.03,282.97,UPI
+ORD100767,03-08-2024,CUST1315,Ritu Mehta,Female,35,Ahmedabad,West,Office Supplies,Whiteboard,1,1320,0.15,1122,990.59,131.41,Credit Card
+ORD100768,03-08-2024,CUST1233,Bhavna Chatterjee,Female,27,Ahmedabad,West,Home & Kitchen,Non-stick Pan,1,900,0,900,665.49,234.51,UPI
+ORD100769,04-08-2024,CUST1000,Rahul Iyer,Male,40,Bengaluru,South,Sports & Fitness,Football,2,720,0,1440,996.84,443.16,Debit Card
+ORD100770,05-08-2024,CUST1053,Pooja Nair,Female,41,Chandigarh,North,Clothing,Winter Jacket,3,3110,0,9330,5622.04,3707.96,UPI
+ORD100771,06-08-2024,CUST1140,Amit Iyer,Male,37,Kolkata,East,Beauty & Personal Care,Perfume,5,1590,0.15,6757.5,5773.37,984.13,UPI
+ORD100772,07-08-2024,CUST1059,Divya Chatterjee,Female,45,Pune,West,Beauty & Personal Care,Skincare Kit,2,1830,0,3660,2746.41,913.59,UPI
+ORD100773,07-08-2024,CUST1103,Gaurav Sharma,Male,26,Chandigarh,North,Electronics,USB-C Charger,1,770,0.15,654.5,483.47,171.03,Credit Card
+ORD100774,08-08-2024,CUST1046,Vijay Verma,Male,29,Coimbatore,South,Clothing,Formal Shirt,1,1180,0.05,1121,749.65,371.35,Credit Card
+ORD100775,08-08-2024,CUST1198,Meena Pillai,Female,35,Guwahati,East,Office Supplies,Whiteboard,1,1250,0.2,1000,900.43,99.57,UPI
+ORD100776,09-08-2024,CUST1315,Ritu Mehta,Female,35,Ahmedabad,West,Beauty & Personal Care,Perfume,1,1640,0.15,1394,1171.73,222.27,UPI
+ORD100777,09-08-2024,CUST1313,Ravi Reddy,Male,43,Kolkata,East,Beauty & Personal Care,Shampoo,1,341,0.05,323.95,249.95,74,UPI
+ORD100778,10-08-2024,CUST1286,Ashok Malhotra,Male,33,Kochi,South,Sports & Fitness,Resistance Bands,2,482,0,964,674.56,289.44,Debit Card
+ORD100779,10-08-2024,CUST1005,Shweta Iyer,Female,32,Mumbai,West,Clothing,Winter Jacket,2,3010,0.05,5719,4626.18,1092.82,Cash on Delivery
+ORD100780,10-08-2024,CUST1062,Neha Reddy,Female,22,Hyderabad,South,Electronics,Webcam,1,1810,0,1810,1227.4,582.6,Credit Card
+ORD100781,10-08-2024,CUST1085,Arjun Bose,Male,29,Pune,West,Clothing,Denim Jeans,1,1550,0,1550,957.45,592.55,Net Banking
+ORD100782,11-08-2024,CUST1147,Ashok Singh,Male,20,Chandigarh,North,Clothing,Denim Jeans,1,1570,0,1570,1017.79,552.21,Debit Card
+ORD100783,11-08-2024,CUST1027,Gaurav Shah,Male,39,Ahmedabad,West,Electronics,Laptop Stand,2,1280,0.1,2304,1610.97,693.03,UPI
+ORD100784,12-08-2024,CUST1143,Sneha Rao,Female,37,Mumbai,West,Clothing,Winter Jacket,4,3000,0,12000,8296.86,3703.14,Credit Card
+ORD100785,13-08-2024,CUST1304,Vikram Shah,Male,34,Hyderabad,South,Office Supplies,Notebook Pack,1,202,0.05,191.9,157.54,34.36,UPI
+ORD100786,14-08-2024,CUST1164,Ravi Reddy,Male,45,Ahmedabad,West,Beauty & Personal Care,Trimmer,3,1330,0.05,3790.5,2437.19,1353.31,UPI
+ORD100787,14-08-2024,CUST1214,Kiran Rao,Female,31,Delhi,North,Electronics,Smartwatch,2,3720,0.05,7068,4998.34,2069.66,Net Banking
+ORD100788,14-08-2024,CUST1338,Arjun Iyer,Male,39,Chandigarh,North,Clothing,Sports Shoes,2,2310,0,4620,3326.28,1293.72,Credit Card
+ORD100789,15-08-2024,CUST1013,Sneha Nair,Female,18,Delhi,North,Home & Kitchen,Storage Containers Set,1,620,0,620,399.14,220.86,Cash on Delivery
+ORD100790,17-08-2024,CUST1229,Ashok Verma,Male,42,Lucknow,North,Home & Kitchen,Blender,2,2140,0,4280,3290.88,989.12,UPI
+ORD100791,17-08-2024,CUST1338,Arjun Iyer,Male,39,Chandigarh,North,Electronics,USB-C Charger,2,800,0.05,1520,1014.7,505.3,Net Banking
+ORD100792,19-08-2024,CUST1235,Preeti Verma,Female,41,Ahmedabad,West,Clothing,Women's Kurti,1,940,0.05,893,623.43,269.57,Debit Card
+ORD100793,19-08-2024,CUST1246,Vijay Malhotra,Male,29,Kochi,South,Electronics,Power Bank,3,1150,0,3450,2338.75,1111.25,UPI
+ORD100794,21-08-2024,CUST1029,Preeti Sharma,Female,31,Delhi,North,Beauty & Personal Care,Trimmer,2,1360,0.05,2584,1989.17,594.83,UPI
+ORD100795,22-08-2024,CUST1273,Nikhil Malhotra,Male,35,Bengaluru,South,Electronics,Bluetooth Speaker,1,2060,0,2060,1550.45,509.55,Net Banking
+ORD100796,22-08-2024,CUST1157,Kavita Pillai,Female,40,Chennai,South,Clothing,Denim Jeans,2,1450,0,2900,2120.63,779.37,Debit Card
+ORD100797,22-08-2024,CUST1209,Deepak Iyer,Male,70,Coimbatore,South,Clothing,Women's Kurti,4,870,0.1,3132,2641.11,490.89,UPI
+ORD100798,27-08-2024,CUST1316,Arjun Patel,Male,42,Pune,West,Electronics,Laptop Stand,1,1280,0.15,1088,892.22,195.78,Cash on Delivery
+ORD100799,27-08-2024,CUST1259,Anil Rao,Male,43,Hyderabad,South,Home & Kitchen,Cushion Cover Set,2,391,0.1,703.8,588.62,115.18,UPI
+ORD100800,29-08-2024,CUST1210,Rajesh Pillai,Male,41,Mumbai,West,Electronics,Wireless Mouse,3,590,0.1,1593,1315.82,277.18,Credit Card
+ORD100801,29-08-2024,CUST1314,Kiran Mehta,Female,49,Jaipur,North,Home & Kitchen,Cushion Cover Set,3,419,0,1257,940.02,316.98,UPI
+ORD100802,30-08-2024,CUST1048,Divya Bose,Female,38,Lucknow,North,Electronics,Webcam,1,1890,0,1890,1271.09,618.91,Credit Card
+ORD100803,31-08-2024,CUST1063,Amit Kapoor,Male,21,Pune,West,Office Supplies,Ballpoint Pen Set,2,160,0.1,288,221.16,66.84,Debit Card
+ORD100804,01-09-2024,CUST1078,Suresh Bose,Male,36,Lucknow,North,Electronics,Power Bank,1,1180,0.1,1062,731.7,330.3,Cash on Delivery
+ORD100805,01-09-2024,CUST1349,Aarti Kumar,Female,32,Pune,West,Clothing,Sports Shoes,4,2160,0.1,7776,6055.6,1720.4,Credit Card
+ORD100806,01-09-2024,CUST1016,Sneha Shah,Female,23,Jaipur,North,Clothing,Men's T-Shirt,2,509,0,1018,725.44,292.56,Cash on Delivery
+ORD100807,02-09-2024,CUST1021,Divya Rao,Female,32,Kolkata,East,Home & Kitchen,Water Bottle,3,317,0.2,760.8,662.34,98.46,UPI
+ORD100808,03-09-2024,CUST1153,Manoj Bose,Male,37,Patna,East,Electronics,Power Bank,2,1180,0,2360,1699.28,660.72,Net Banking
+ORD100809,03-09-2024,CUST1314,Kiran Mehta,Female,49,Jaipur,North,Office Supplies,Desk Organizer,2,670,0.1,1206,950.34,255.66,UPI
+ORD100810,04-09-2024,CUST1119,Karan Pillai,Male,43,Bhubaneswar,East,Beauty & Personal Care,Skincare Kit,1,1970,0.15,1674.5,1357.58,316.92,Debit Card
+ORD100811,05-09-2024,CUST1005,Shweta Iyer,Female,32,Mumbai,West,Electronics,Laptop Stand,3,1370,0.2,3288,2868.64,419.36,Credit Card
+ORD100812,06-09-2024,CUST1002,Anita Sharma,Female,42,Ahmedabad,West,Beauty & Personal Care,Shampoo,1,360,0.1,324,221.92,102.08,UPI
+ORD100813,06-09-2024,CUST1152,Vikram Shah,Male,27,Delhi,North,Electronics,USB-C Charger,1,790,0.1,711,571.63,139.37,Cash on Delivery
+ORD100814,07-09-2024,CUST1071,Kiran Mehta,Female,51,Ahmedabad,West,Electronics,Bluetooth Speaker,5,1910,0,9550,6924.77,2625.23,Debit Card
+ORD100815,07-09-2024,CUST1004,Sandeep Agarwal,Male,32,Bengaluru,South,Clothing,Women's Kurti,1,870,0.15,739.5,611.58,127.92,UPI
+ORD100816,08-09-2024,CUST1150,Vikram Kapoor,Male,37,Kolkata,East,Clothing,Women's Kurti,2,880,0.05,1672,1334.83,337.17,Credit Card
+ORD100817,08-09-2024,CUST1136,Priya Chatterjee,Female,26,Coimbatore,South,Beauty & Personal Care,Trimmer,1,1310,0,1310,871.61,438.39,Credit Card
+ORD100818,09-09-2024,CUST1333,Gaurav Kapoor,Male,27,Kolkata,East,Sports & Fitness,Dumbbell Set,2,1850,0,3700,2331.63,1368.37,Debit Card
+ORD100819,11-09-2024,CUST1270,Kiran Joshi,Female,50,Patna,East,Sports & Fitness,Cricket Bat,1,1530,0.05,1453.5,1139.82,313.68,UPI
+ORD100820,11-09-2024,CUST1062,Neha Reddy,Female,22,Hyderabad,South,Office Supplies,Notebook Pack,2,205,0,410,275.01,134.99,Credit Card
+ORD100821,13-09-2024,CUST1013,Sneha Nair,Female,18,Delhi,North,Beauty & Personal Care,Perfume,1,1580,0.1,1422,965.72,456.28,Credit Card
+ORD100822,13-09-2024,CUST1225,Anjali Bose,Female,46,Kolkata,East,Clothing,Formal Shirt,3,1050,0.2,2520,2210.43,309.57,Credit Card
+ORD100823,15-09-2024,CUST1131,Rohit Agarwal,Male,35,Kolkata,East,Electronics,Smartwatch,1,3550,0.05,3372.5,2756.24,616.26,UPI
+ORD100824,15-09-2024,CUST1060,Rajesh Sharma,Male,29,Kolkata,East,Clothing,Men's T-Shirt,3,509,0,1527,1133.48,393.52,UPI
+ORD100825,17-09-2024,CUST1270,Kiran Joshi,Female,50,Patna,East,Sports & Fitness,Resistance Bands,4,490,0,1960,1505.67,454.33,UPI
+ORD100826,18-09-2024,CUST1054,Sandeep Malhotra,Male,46,Lucknow,North,Electronics,Wireless Mouse,2,610,0.15,1037,780.58,256.42,Net Banking
+ORD100827,18-09-2024,CUST1129,Vijay Agarwal,Male,29,Patna,East,Electronics,Power Bank,2,1170,0.1,2106,1690.46,415.54,UPI
+ORD100828,18-09-2024,CUST1211,Nisha Verma,Female,47,Chandigarh,North,Office Supplies,Office Chair,1,5280,0,5280,3528.86,1751.14,UPI
+ORD100829,18-09-2024,CUST1029,Preeti Sharma,Female,31,Delhi,North,Electronics,Power Bank,1,1260,0.1,1134,855.25,278.75,Credit Card
+ORD100830,18-09-2024,CUST1016,Sneha Shah,Female,23,Jaipur,North,Electronics,Earbuds,2,2640,0,5280,3915.28,1364.72,Cash on Delivery
+ORD100831,19-09-2024,CUST1233,Bhavna Chatterjee,Female,27,Ahmedabad,West,Electronics,Smartwatch,1,3390,0.15,2881.5,2611.32,270.18,Debit Card
+ORD100832,19-09-2024,CUST1085,Arjun Bose,Male,29,Pune,West,Office Supplies,Desk Organizer,2,730,0.1,1314,878.2,435.8,UPI
+ORD100833,19-09-2024,CUST1107,Rohit Agarwal,Male,36,Kolkata,East,Clothing,Men's T-Shirt,2,509,0.1,916.2,642.26,273.94,Debit Card
+ORD100834,20-09-2024,CUST1280,Neha Shah,Female,36,Mumbai,West,Sports & Fitness,Yoga Mat,1,580,0,580,441.33,138.67,Debit Card
+ORD100835,20-09-2024,CUST1118,Rahul Singh,Male,47,Patna,East,Beauty & Personal Care,Perfume,3,1560,0.1,4212,3227.68,984.32,UPI
+ORD100836,22-09-2024,CUST1138,Rajesh Kapoor,Male,43,Mumbai,West,Sports & Fitness,Resistance Bands,1,501,0.05,475.95,304.84,171.11,Credit Card
+ORD100837,22-09-2024,CUST1072,Nikhil Shah,Male,34,Delhi,North,Electronics,Laptop Stand,3,1400,0,4200,3216.16,983.84,Cash on Delivery
+ORD100838,22-09-2024,CUST1039,Ashok Bose,Male,37,Jaipur,North,Beauty & Personal Care,Perfume,1,1600,0.05,1520,973.93,546.07,Debit Card
+ORD100839,23-09-2024,CUST1233,Bhavna Chatterjee,Female,27,Ahmedabad,West,Clothing,Winter Jacket,2,3160,0,6320,3934.41,2385.59,UPI
+ORD100840,24-09-2024,CUST1070,Anil Chatterjee,Male,38,Lucknow,North,Clothing,Men's T-Shirt,5,489,0.15,2078.25,1784.82,293.43,UPI
+ORD100841,24-09-2024,CUST1269,Sanjay Bose,Male,36,Lucknow,North,Electronics,Earbuds,3,2670,0.2,6408,5852.34,555.66,Cash on Delivery
+ORD100842,25-09-2024,CUST1339,Kunal Kumar,Male,28,Ahmedabad,West,Clothing,Denim Jeans,1,1550,0,1550,1197.26,352.74,Debit Card
+ORD100843,25-09-2024,CUST1221,Divya Shah,Female,18,Lucknow,North,Electronics,Power Bank,1,1150,0,1150,785.76,364.24,Credit Card
+ORD100844,26-09-2024,CUST1027,Gaurav Shah,Male,39,Ahmedabad,West,Beauty & Personal Care,Trimmer,1,1360,0,1360,941.12,418.88,Debit Card
+ORD100845,26-09-2024,CUST1065,Amit Pillai,Male,49,Ahmedabad,West,Office Supplies,Ballpoint Pen Set,1,153,0,153,115.35,37.65,Credit Card
+ORD100846,26-09-2024,CUST1140,Amit Iyer,Male,37,Kolkata,East,Electronics,Smartwatch,3,3610,0,10830,7297.07,3532.93,Credit Card
+ORD100847,27-09-2024,CUST1069,Meena Reddy,Female,27,Coimbatore,South,Clothing,Formal Shirt,1,1080,0,1080,749.04,330.96,Debit Card
+ORD100848,29-09-2024,CUST1279,Ajay Reddy,Male,30,Bengaluru,South,Home & Kitchen,Storage Containers Set,5,580,0.05,2755,2001.79,753.21,UPI
+ORD100849,30-09-2024,CUST1266,Vijay Malhotra,Male,52,Hyderabad,South,Clothing,Men's T-Shirt,1,501,0.1,450.9,383.39,67.51,Net Banking
+ORD100850,30-09-2024,CUST1129,Vijay Agarwal,Male,29,Patna,East,Electronics,Laptop Stand,3,1320,0.05,3762,2876.57,885.43,UPI
+ORD100851,02-10-2024,CUST1046,Vijay Verma,Male,29,Coimbatore,South,Office Supplies,Desk Organizer,4,690,0.05,2622,1950.52,671.48,Cash on Delivery
+ORD100852,02-10-2024,CUST1079,Ritu Shah,Female,18,Chandigarh,North,Electronics,Earbuds,1,2440,0.1,2196,1807.16,388.84,UPI
+ORD100853,02-10-2024,CUST1128,Sanjay Chatterjee,Male,36,Lucknow,North,Electronics,Smartwatch,4,3420,0,13680,10220.89,3459.11,Credit Card
+ORD100854,02-10-2024,CUST1001,Arjun Singh,Male,33,Ahmedabad,West,Clothing,Denim Jeans,4,1560,0,6240,4565.62,1674.38,Net Banking
+ORD100855,04-10-2024,CUST1242,Vijay Shah,Male,40,Kolkata,East,Beauty & Personal Care,Shampoo,2,347,0.15,589.9,441.57,148.33,UPI
+ORD100856,05-10-2024,CUST1030,Anjali Singh,Female,28,Hyderabad,South,Sports & Fitness,Cricket Bat,1,1530,0,1530,984.43,545.57,UPI
+ORD100857,06-10-2024,CUST1107,Rohit Agarwal,Male,36,Kolkata,East,Home & Kitchen,Non-stick Pan,1,910,0,910,610.63,299.37,UPI
+ORD100858,06-10-2024,CUST1305,Pooja Kapoor,Female,36,Chandigarh,North,Office Supplies,Whiteboard,5,1240,0,6200,4628.86,1571.14,Debit Card
+ORD100859,06-10-2024,CUST1273,Nikhil Malhotra,Male,35,Bengaluru,South,Electronics,Bluetooth Speaker,2,2010,0,4020,2862.33,1157.67,Credit Card
+ORD100860,06-10-2024,CUST1298,Deepak Agarwal,Male,43,Coimbatore,South,Clothing,Sports Shoes,1,2090,0.1,1881,1321.17,559.83,Cash on Delivery
+ORD100861,06-10-2024,CUST1083,Anil Patel,Male,29,Bhubaneswar,East,Electronics,Laptop Stand,4,1380,0.05,5244,3387.22,1856.78,UPI
+ORD100862,07-10-2024,CUST1342,Ashok Malhotra,Male,37,Hyderabad,South,Electronics,Wireless Mouse,3,630,0.1,1701,1347.04,353.96,UPI
+ORD100863,07-10-2024,CUST1116,Nisha Kapoor,Female,34,Chandigarh,North,Sports & Fitness,Cricket Bat,3,1530,0.05,4360.5,2764,1596.5,Debit Card
+ORD100864,07-10-2024,CUST1267,Pooja Kumar,Female,19,Pune,West,Beauty & Personal Care,Face Wash,2,252,0.15,428.4,373.48,54.92,Debit Card
+ORD100865,10-10-2024,CUST1332,Sneha Agarwal,Female,35,Delhi,North,Clothing,Sports Shoes,3,2170,0,6510,4310.67,2199.33,Cash on Delivery
+ORD100866,11-10-2024,CUST1116,Nisha Kapoor,Female,34,Chandigarh,North,Office Supplies,Whiteboard,4,1340,0.05,5092,3699.63,1392.37,Cash on Delivery
+ORD100867,11-10-2024,CUST1150,Vikram Kapoor,Male,37,Kolkata,East,Clothing,Men's T-Shirt,3,516,0.1,1393.2,1048.6,344.6,UPI
+ORD100868,12-10-2024,CUST1101,Nisha Shah,Female,30,Delhi,North,Electronics,Webcam,1,1730,0.05,1643.5,1241.1,402.4,UPI
+ORD100869,13-10-2024,CUST1314,Kiran Mehta,Female,49,Jaipur,North,Office Supplies,Notebook Pack,1,208,0.05,197.6,147.76,49.84,Credit Card
+ORD100870,13-10-2024,CUST1276,Nikhil Gupta,Male,37,Chandigarh,North,Electronics,Webcam,1,1870,0.2,1496,1336.2,159.8,UPI
+ORD100871,15-10-2024,CUST1122,Bhavna Pillai,Female,50,Patna,East,Home & Kitchen,Non-stick Pan,2,890,0.05,1691,1204.52,486.48,Debit Card
+ORD100872,15-10-2024,CUST1304,Vikram Shah,Male,34,Hyderabad,South,Office Supplies,Ballpoint Pen Set,1,148,0,148,114.29,33.71,Cash on Delivery
+ORD100873,16-10-2024,CUST1207,Nisha Rao,Female,40,Hyderabad,South,Office Supplies,Desk Organizer,2,670,0,1340,978.81,361.19,UPI
+ORD100874,17-10-2024,CUST1055,Kavita Iyer,Female,45,Bhubaneswar,East,Home & Kitchen,Storage Containers Set,1,620,0.15,527,478.58,48.42,Cash on Delivery
+ORD100875,18-10-2024,CUST1021,Divya Rao,Female,32,Kolkata,East,Beauty & Personal Care,Face Wash,1,262,0,262,191.26,70.74,Credit Card
+ORD100876,19-10-2024,CUST1004,Sandeep Agarwal,Male,32,Bengaluru,South,Electronics,Earbuds,1,2400,0.15,2040,1638.58,401.42,UPI
+ORD100877,19-10-2024,CUST1172,Suresh Reddy,Male,34,Coimbatore,South,Electronics,Webcam,1,1800,0.2,1440,1212.62,227.38,Cash on Delivery
+ORD100878,21-10-2024,CUST1261,Sanjay Chatterjee,Male,34,Kochi,South,Electronics,Bluetooth Speaker,2,2030,0.05,3857,3068.56,788.44,Cash on Delivery
+ORD100879,22-10-2024,CUST1064,Anita Verma,Female,43,Guwahati,East,Home & Kitchen,Storage Containers Set,2,580,0.15,986,880.35,105.65,Cash on Delivery
+ORD100880,22-10-2024,CUST1224,Neha Malhotra,Female,29,Guwahati,East,Electronics,Bluetooth Speaker,2,1940,0.2,3104,2716.84,387.16,Debit Card
+ORD100881,22-10-2024,CUST1305,Pooja Kapoor,Female,36,Chandigarh,North,Beauty & Personal Care,Trimmer,3,1390,0.05,3961.5,3050.1,911.4,Debit Card
+ORD100882,23-10-2024,CUST1038,Sneha Bose,Female,20,Lucknow,North,Electronics,Bluetooth Speaker,1,2030,0,2030,1340.13,689.87,Credit Card
+ORD100883,23-10-2024,CUST1287,Nikhil Pillai,Male,41,Bengaluru,South,Clothing,Women's Kurti,5,960,0.15,4080,3609.97,470.03,Credit Card
+ORD100884,24-10-2024,CUST1345,Amit Joshi,Male,37,Hyderabad,South,Clothing,Women's Kurti,3,870,0,2610,1711.54,898.46,UPI
+ORD100885,26-10-2024,CUST1164,Ravi Reddy,Male,45,Ahmedabad,West,Beauty & Personal Care,Trimmer,1,1240,0.05,1178,915.95,262.05,UPI
+ORD100886,26-10-2024,CUST1184,Sanjay Singh,Male,32,Patna,East,Beauty & Personal Care,Face Wash,4,266,0,1064,770.75,293.25,Debit Card
+ORD100887,26-10-2024,CUST1197,Pooja Malhotra,Female,36,Hyderabad,South,Office Supplies,Office Chair,1,4940,0.15,4199,3211.87,987.13,Net Banking
+ORD100888,26-10-2024,CUST1271,Gaurav Singh,Male,19,Guwahati,East,Clothing,Winter Jacket,1,3060,0.05,2907,2210.33,696.67,Net Banking
+ORD100889,27-10-2024,CUST1115,Sanjay Rao,Male,38,Ahmedabad,West,Clothing,Men's T-Shirt,2,483,0.1,869.4,701.74,167.66,UPI
+ORD100890,27-10-2024,CUST1293,Bhavna Pillai,Female,44,Hyderabad,South,Electronics,Earbuds,2,2410,0,4820,3396.28,1423.72,Debit Card
+ORD100891,27-10-2024,CUST1274,Pooja Joshi,Female,24,Kochi,South,Clothing,Winter Jacket,2,3140,0.05,5966,4213.92,1752.08,UPI
+ORD100892,27-10-2024,CUST1176,Kavita Das,Female,35,Mumbai,West,Sports & Fitness,Dumbbell Set,1,1860,0.1,1674,1182.7,491.3,Cash on Delivery
+ORD100893,29-10-2024,CUST1166,Rekha Malhotra,Female,44,Mumbai,West,Beauty & Personal Care,Perfume,1,1690,0.1,1521,1029.56,491.44,UPI
+ORD100894,31-10-2024,CUST1089,Suresh Joshi,Male,40,Patna,East,Clothing,Formal Shirt,2,1150,0.2,1840,1585.45,254.55,Debit Card
+ORD100895,31-10-2024,CUST1024,Shweta Chatterjee,Female,29,Kochi,South,Electronics,Webcam,2,1760,0,3520,2223.76,1296.24,UPI
+ORD100896,31-10-2024,CUST1225,Anjali Bose,Female,46,Kolkata,East,Home & Kitchen,LED Table Lamp,2,770,0,1540,1032.36,507.64,Credit Card
+ORD100897,01-11-2024,CUST1168,Vikram Kapoor,Male,32,Kochi,South,Electronics,USB-C Charger,4,800,0.05,3040,2287.79,752.21,UPI
+ORD100898,02-11-2024,CUST1206,Anjali Singh,Female,40,Jaipur,North,Office Supplies,Ballpoint Pen Set,1,144,0.05,136.8,95.97,40.83,UPI
+ORD100899,03-11-2024,CUST1347,Shweta Bose,Female,19,Pune,West,Clothing,Denim Jeans,5,1430,0,7150,5436.9,1713.1,UPI
+ORD100900,03-11-2024,CUST1182,Rajesh Rao,Male,23,Ahmedabad,West,Beauty & Personal Care,Perfume,3,1530,0.1,4131,2821.55,1309.45,Debit Card
+ORD100901,04-11-2024,CUST1296,Kiran Nair,Female,44,Patna,East,Electronics,Smartwatch,2,3760,0.05,7144,5131.54,2012.46,Credit Card
+ORD100902,05-11-2024,CUST1239,Anita Das,Female,44,Kochi,South,Beauty & Personal Care,Face Wash,1,256,0.15,217.6,172.34,45.26,UPI
+ORD100903,06-11-2024,CUST1034,Manoj Patel,Male,44,Mumbai,West,Clothing,Denim Jeans,1,1550,0.05,1472.5,1176.8,295.7,UPI
+ORD100904,07-11-2024,CUST1079,Ritu Shah,Female,18,Chandigarh,North,Electronics,Bluetooth Speaker,2,2050,0,4100,3107.57,992.43,Credit Card
+ORD100905,07-11-2024,CUST1144,Manoj Nair,Male,37,Ahmedabad,West,Beauty & Personal Care,Trimmer,4,1300,0.2,4160,3162.04,997.96,Debit Card
+ORD100906,07-11-2024,CUST1056,Vijay Malhotra,Male,25,Delhi,North,Office Supplies,Desk Organizer,2,730,0.05,1387,1118.42,268.58,Debit Card
+ORD100907,07-11-2024,CUST1080,Divya Iyer,Female,32,Guwahati,East,Clothing,Sports Shoes,2,2100,0.1,3780,3172.16,607.84,Net Banking
+ORD100908,07-11-2024,CUST1157,Kavita Pillai,Female,40,Chennai,South,Beauty & Personal Care,Trimmer,1,1310,0.05,1244.5,981.3,263.2,UPI
+ORD100909,08-11-2024,CUST1306,Ashok Nair,Male,49,Delhi,North,Sports & Fitness,Yoga Mat,1,610,0,610,404.75,205.25,Cash on Delivery
+ORD100910,08-11-2024,CUST1078,Suresh Bose,Male,36,Lucknow,North,Electronics,Wireless Mouse,2,620,0.1,1116,788.93,327.07,Debit Card
+ORD100911,09-11-2024,CUST1195,Anil Kumar,Male,39,Ahmedabad,West,Clothing,Formal Shirt,1,1100,0.1,990,747.52,242.48,UPI
+ORD100912,09-11-2024,CUST1186,Ritu Kapoor,Female,40,Patna,East,Sports & Fitness,Resistance Bands,1,514,0,514,322.39,191.61,UPI
+ORD100913,09-11-2024,CUST1203,Aarti Malhotra,Female,46,Chennai,South,Home & Kitchen,Non-stick Pan,1,970,0,970,650.89,319.11,UPI
+ORD100914,09-11-2024,CUST1261,Sanjay Chatterjee,Male,34,Kochi,South,Electronics,Earbuds,2,2570,0,5140,3587.77,1552.23,UPI
+ORD100915,10-11-2024,CUST1221,Divya Shah,Female,18,Lucknow,North,Office Supplies,Ballpoint Pen Set,2,143,0.1,257.4,208,49.4,UPI
+ORD100916,10-11-2024,CUST1067,Rajesh Singh,Male,46,Bengaluru,South,Home & Kitchen,Blender,1,2150,0.15,1827.5,1486.23,341.27,Credit Card
+ORD100917,10-11-2024,CUST1072,Nikhil Shah,Male,34,Delhi,North,Office Supplies,Notebook Pack,2,195,0.1,351,286.73,64.27,Debit Card
+ORD100918,10-11-2024,CUST1308,Shweta Nair,Female,41,Patna,East,Beauty & Personal Care,Perfume,5,1630,0,8150,5702.5,2447.5,Credit Card
+ORD100919,16-11-2024,CUST1295,Suresh Bose,Male,27,Chandigarh,North,Office Supplies,Ballpoint Pen Set,1,148,0.15,125.8,114.05,11.75,Cash on Delivery
+ORD100920,17-11-2024,CUST1343,Shweta Verma,Female,29,Kochi,South,Office Supplies,Whiteboard,2,1310,0,2620,1660.72,959.28,Credit Card
+ORD100921,17-11-2024,CUST1085,Arjun Bose,Male,29,Pune,West,Home & Kitchen,Non-stick Pan,3,960,0,2880,1961.92,918.08,Net Banking
+ORD100922,18-11-2024,CUST1284,Karan Iyer,Male,58,Pune,West,Home & Kitchen,Storage Containers Set,3,620,0.1,1674,1343.71,330.29,Cash on Delivery
+ORD100923,21-11-2024,CUST1265,Priya Shah,Female,21,Coimbatore,South,Clothing,Sports Shoes,2,2270,0.05,4313,3074.53,1238.47,Credit Card
+ORD100924,21-11-2024,CUST1261,Sanjay Chatterjee,Male,34,Kochi,South,Home & Kitchen,Blender,2,2150,0.1,3870,3151.15,718.85,UPI
+ORD100925,22-11-2024,CUST1050,Suresh Singh,Male,38,Patna,East,Electronics,Power Bank,3,1290,0,3870,2375.77,1494.23,UPI
+ORD100926,22-11-2024,CUST1276,Nikhil Gupta,Male,37,Chandigarh,North,Clothing,Women's Kurti,3,870,0.15,2218.5,1871.27,347.23,Credit Card
+ORD100927,23-11-2024,CUST1007,Rohit Mehta,Male,43,Delhi,North,Beauty & Personal Care,Skincare Kit,5,1930,0.05,9167.5,5857.74,3309.76,Credit Card
+ORD100928,24-11-2024,CUST1058,Karan Agarwal,Male,38,Guwahati,East,Electronics,Earbuds,2,2500,0.05,4750,3403.82,1346.18,UPI
+ORD100929,24-11-2024,CUST1279,Ajay Reddy,Male,30,Bengaluru,South,Clothing,Sports Shoes,4,2350,0.05,8930,6244.25,2685.75,Credit Card
+ORD100930,24-11-2024,CUST1257,Kavita Reddy,Female,27,Lucknow,North,Home & Kitchen,Cushion Cover Set,2,415,0,830,529.77,300.23,Net Banking
+ORD100931,25-11-2024,CUST1308,Shweta Nair,Female,41,Patna,East,Home & Kitchen,Non-stick Pan,1,900,0.05,855,582.81,272.19,Cash on Delivery
+ORD100932,25-11-2024,CUST1336,Ravi Pillai,Male,25,Chandigarh,North,Electronics,Power Bank,2,1230,0,2460,1910.2,549.8,UPI
+ORD100933,25-11-2024,CUST1081,Anita Gupta,Female,38,Patna,East,Sports & Fitness,Dumbbell Set,3,1940,0.15,4947,3762.18,1184.82,Net Banking
+ORD100934,26-11-2024,CUST1105,Pooja Das,Female,39,Hyderabad,South,Office Supplies,Desk Organizer,1,730,0.1,657,490.03,166.97,Debit Card
+ORD100935,26-11-2024,CUST1038,Sneha Bose,Female,20,Lucknow,North,Office Supplies,Office Chair,5,5020,0,25100,16857.51,8242.49,Debit Card
+ORD100936,26-11-2024,CUST1148,Meena Joshi,Female,40,Jaipur,North,Home & Kitchen,Cushion Cover Set,3,383,0,1149,801.09,347.91,Cash on Delivery
+ORD100937,27-11-2024,CUST1064,Anita Verma,Female,43,Guwahati,East,Sports & Fitness,Yoga Mat,2,630,0,1260,960.02,299.98,UPI
+ORD100938,27-11-2024,CUST1241,Shweta Patel,Female,33,Jaipur,North,Office Supplies,Ballpoint Pen Set,1,146,0.15,124.1,88.16,35.94,Net Banking
+ORD100939,28-11-2024,CUST1266,Vijay Malhotra,Male,52,Hyderabad,South,Office Supplies,Ballpoint Pen Set,2,150,0.1,270,200.15,69.85,UPI
+ORD100940,29-11-2024,CUST1314,Kiran Mehta,Female,49,Jaipur,North,Sports & Fitness,Dumbbell Set,1,1840,0,1840,1158.9,681.1,Cash on Delivery
+ORD100941,29-11-2024,CUST1333,Gaurav Kapoor,Male,27,Kolkata,East,Clothing,Men's T-Shirt,1,474,0,474,287.53,186.47,Net Banking
+ORD100942,30-11-2024,CUST1229,Ashok Verma,Male,42,Lucknow,North,Beauty & Personal Care,Trimmer,1,1270,0,1270,804.62,465.38,Debit Card
+ORD100943,01-12-2024,CUST1290,Pooja Rao,Female,32,Bhubaneswar,East,Clothing,Men's T-Shirt,2,515,0,1030,791.57,238.43,Cash on Delivery
+ORD100944,02-12-2024,CUST1279,Ajay Reddy,Male,30,Bengaluru,South,Clothing,Sports Shoes,3,2320,0,6960,4438.27,2521.73,Credit Card
+ORD100945,02-12-2024,CUST1148,Meena Joshi,Female,40,Jaipur,North,Office Supplies,Desk Organizer,1,720,0.05,684,554.77,129.23,UPI
+ORD100946,02-12-2024,CUST1159,Shalini Gupta,Female,42,Chennai,South,Clothing,Formal Shirt,1,1060,0.1,954,642.62,311.38,Net Banking
+ORD100947,03-12-2024,CUST1093,Rajesh Verma,Male,31,Guwahati,East,Home & Kitchen,Cushion Cover Set,1,415,0,415,276.93,138.07,Debit Card
+ORD100948,03-12-2024,CUST1135,Shalini Iyer,Female,52,Patna,East,Beauty & Personal Care,Face Wash,1,268,0,268,167.98,100.02,Credit Card
+ORD100949,04-12-2024,CUST1051,Nisha Agarwal,Female,30,Bhubaneswar,East,Beauty & Personal Care,Skincare Kit,3,1870,0.05,5329.5,4006.8,1322.7,UPI
+ORD100950,06-12-2024,CUST1176,Kavita Das,Female,35,Mumbai,West,Electronics,Laptop Stand,1,1310,0,1310,851.27,458.73,UPI
+ORD100951,06-12-2024,CUST1169,Preeti Pillai,Female,26,Kochi,South,Clothing,Sports Shoes,1,2110,0,2110,1326.6,783.4,Credit Card
+ORD100952,07-12-2024,CUST1091,Priya Patel,Female,45,Coimbatore,South,Office Supplies,Whiteboard,1,1250,0.1,1125,830.23,294.77,UPI
+ORD100953,08-12-2024,CUST1146,Kunal Kumar,Male,21,Bengaluru,South,Office Supplies,Ballpoint Pen Set,2,160,0.1,288,209.96,78.04,Net Banking
+ORD100954,08-12-2024,CUST1307,Preeti Joshi,Female,28,Delhi,North,Office Supplies,Desk Organizer,1,750,0,750,466.39,283.61,Net Banking
+ORD100955,08-12-2024,CUST1153,Manoj Bose,Male,37,Patna,East,Electronics,Wireless Mouse,3,600,0.05,1710,1139.44,570.56,Debit Card
+ORD100956,09-12-2024,CUST1270,Kiran Joshi,Female,50,Patna,East,Sports & Fitness,Dumbbell Set,1,1900,0,1900,1175.76,724.24,Credit Card
+ORD100957,09-12-2024,CUST1038,Sneha Bose,Female,20,Lucknow,North,Home & Kitchen,Storage Containers Set,1,570,0,570,422.28,147.72,Net Banking
+ORD100958,09-12-2024,CUST1103,Gaurav Sharma,Male,26,Chandigarh,North,Beauty & Personal Care,Face Wash,1,253,0.05,240.35,166.61,73.74,Debit Card
+ORD100959,10-12-2024,CUST1067,Rajesh Singh,Male,46,Bengaluru,South,Home & Kitchen,Blender,1,2260,0.2,1808,1708.31,99.69,Credit Card
+ORD100960,10-12-2024,CUST1279,Ajay Reddy,Male,30,Bengaluru,South,Clothing,Sports Shoes,3,2340,0.05,6669,4240.39,2428.61,UPI
+ORD100961,11-12-2024,CUST1332,Sneha Agarwal,Female,35,Delhi,North,Clothing,Sports Shoes,2,2110,0.05,4009,2594.08,1414.92,Cash on Delivery
+ORD100962,12-12-2024,CUST1281,Neha Kumar,Female,42,Chennai,South,Electronics,Webcam,2,1730,0,3460,2618.26,841.74,Credit Card
+ORD100963,13-12-2024,CUST1043,Sanjay Nair,Male,31,Ahmedabad,West,Electronics,Power Bank,1,1160,0,1160,849.34,310.66,Net Banking
+ORD100964,13-12-2024,CUST1331,Deepak Patel,Male,25,Bhubaneswar,East,Home & Kitchen,Blender,1,2120,0,2120,1383.93,736.07,UPI
+ORD100965,13-12-2024,CUST1115,Sanjay Rao,Male,38,Ahmedabad,West,Home & Kitchen,LED Table Lamp,2,730,0,1460,1132.39,327.61,Credit Card
+ORD100966,13-12-2024,CUST1140,Amit Iyer,Male,37,Kolkata,East,Clothing,Formal Shirt,1,1060,0.1,954,645.79,308.21,UPI
+ORD100967,13-12-2024,CUST1060,Rajesh Sharma,Male,29,Kolkata,East,Office Supplies,Office Chair,3,4780,0.2,11472,11104.87,367.13,Cash on Delivery
+ORD100968,14-12-2024,CUST1248,Divya Chatterjee,Female,54,Guwahati,East,Office Supplies,Whiteboard,1,1400,0.15,1190,996.9,193.1,Debit Card
+ORD100969,14-12-2024,CUST1179,Ajay Das,Male,64,Guwahati,East,Home & Kitchen,Water Bottle,4,287,0,1148,707.82,440.18,Cash on Delivery
+ORD100970,14-12-2024,CUST1247,Nisha Iyer,Female,27,Bhubaneswar,East,Clothing,Men's T-Shirt,1,526,0.15,447.1,326.98,120.12,UPI
+ORD100971,15-12-2024,CUST1276,Nikhil Gupta,Male,37,Chandigarh,North,Sports & Fitness,Football,2,740,0.1,1332,960.45,371.55,UPI
+ORD100972,15-12-2024,CUST1090,Sanjay Patel,Male,36,Jaipur,North,Electronics,Earbuds,1,2670,0,2670,1966.97,703.03,Net Banking
+ORD100973,15-12-2024,CUST1047,Ravi Nair,Male,46,Chennai,South,Office Supplies,Office Chair,1,5350,0.05,5082.5,3356.78,1725.72,UPI
+ORD100974,16-12-2024,CUST1072,Nikhil Shah,Male,34,Delhi,North,Sports & Fitness,Resistance Bands,2,537,0.1,966.6,778.9,187.7,Cash on Delivery
+ORD100975,17-12-2024,CUST1082,Anita Sharma,Female,51,Coimbatore,South,Office Supplies,Whiteboard,2,1400,0,2800,2037.56,762.44,UPI
+ORD100976,18-12-2024,CUST1011,Sandeep Das,Male,29,Kochi,South,Electronics,USB-C Charger,3,820,0,2460,1562.34,897.66,UPI
+ORD100977,18-12-2024,CUST1075,Ritu Patel,Female,44,Bhubaneswar,East,Beauty & Personal Care,Shampoo,1,332,0,332,200.79,131.21,Credit Card
+ORD100978,18-12-2024,CUST1056,Vijay Malhotra,Male,25,Delhi,North,Home & Kitchen,Cushion Cover Set,1,400,0,400,265.95,134.05,UPI
+ORD100979,18-12-2024,CUST1051,Nisha Agarwal,Female,30,Bhubaneswar,East,Office Supplies,Desk Organizer,1,700,0.05,665,488.42,176.58,UPI
+ORD100980,19-12-2024,CUST1328,Priya Malhotra,Female,41,Ahmedabad,West,Beauty & Personal Care,Trimmer,2,1250,0,2500,1753.53,746.47,UPI
+ORD100981,21-12-2024,CUST1207,Nisha Rao,Female,40,Hyderabad,South,Home & Kitchen,Cushion Cover Set,2,425,0.1,765,579.51,185.49,Credit Card
+ORD100982,21-12-2024,CUST1051,Nisha Agarwal,Female,30,Bhubaneswar,East,Home & Kitchen,LED Table Lamp,3,800,0.1,2160,1677.97,482.03,UPI
+ORD100983,21-12-2024,CUST1199,Sneha Shah,Female,22,Pune,West,Electronics,USB-C Charger,2,820,0.1,1476,1209.79,266.21,Credit Card
+ORD100984,22-12-2024,CUST1285,Gaurav Pillai,Male,18,Delhi,North,Clothing,Denim Jeans,3,1450,0.2,3480,3021.62,458.38,Net Banking
+ORD100985,23-12-2024,CUST1284,Karan Iyer,Male,58,Pune,West,Home & Kitchen,Storage Containers Set,2,580,0.2,928,717.28,210.72,UPI
+ORD100986,25-12-2024,CUST1311,Priya Patel,Female,47,Lucknow,North,Electronics,Smartwatch,3,3440,0,10320,7867.11,2452.89,Credit Card
+ORD100987,27-12-2024,CUST1078,Suresh Bose,Male,36,Lucknow,North,Clothing,Women's Kurti,3,870,0.1,2349,1816.62,532.38,Debit Card
+ORD100988,27-12-2024,CUST1004,Sandeep Agarwal,Male,32,Bengaluru,South,Electronics,Laptop Stand,1,1320,0.2,1056,886.33,169.67,UPI
+ORD100989,27-12-2024,CUST1227,Shalini Agarwal,Female,23,Pune,West,Sports & Fitness,Resistance Bands,4,497,0.15,1689.8,1538.13,151.67,UPI
+ORD100990,27-12-2024,CUST1197,Pooja Malhotra,Female,36,Hyderabad,South,Electronics,Power Bank,1,1180,0,1180,780.66,399.34,UPI
+ORD100991,28-12-2024,CUST1091,Priya Patel,Female,45,Coimbatore,South,Home & Kitchen,Water Bottle,1,319,0.05,303.05,194.74,108.31,UPI
+ORD100992,28-12-2024,CUST1334,Rajesh Das,Male,45,Coimbatore,South,Home & Kitchen,Water Bottle,4,317,0.05,1204.6,814.86,389.74,UPI
+ORD100993,28-12-2024,CUST1231,Priya Kumar,Female,37,Patna,East,Clothing,Denim Jeans,1,1530,0,1530,1018.92,511.08,Credit Card
+ORD100994,28-12-2024,CUST1107,Rohit Agarwal,Male,36,Kolkata,East,Beauty & Personal Care,Skincare Kit,5,1970,0,9850,6094.59,3755.41,UPI
+ORD100995,29-12-2024,CUST1015,Manoj Joshi,Male,28,Chandigarh,North,Electronics,Power Bank,1,1190,0,1190,903.2,286.8,UPI
+ORD100996,29-12-2024,CUST1335,Deepak Patel,Male,33,Ahmedabad,West,Electronics,Smartwatch,2,3480,0.2,5568,5005.15,562.85,Debit Card
+ORD100997,30-12-2024,CUST1230,Pooja Malhotra,Female,26,Delhi,North,Electronics,Webcam,1,1920,0.15,1632,1319.28,312.72,UPI
+ORD100998,30-12-2024,CUST1161,Priya Rao,Female,43,Coimbatore,South,Electronics,USB-C Charger,3,830,0,2490,1859.2,630.8,UPI
+ORD100999,30-12-2024,CUST1045,Rahul Gupta,Male,27,Pune,West,Electronics,Webcam,1,1830,0.05,1738.5,1196.8,541.7,UPI
+ORD101000,31-12-2024,CUST1102,Shweta Reddy,Female,31,Chennai,South,Electronics,Bluetooth Speaker,2,2100,0.05,3990,2831.35,1158.65,UPI
